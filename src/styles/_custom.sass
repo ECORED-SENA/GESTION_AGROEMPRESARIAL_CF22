@@ -5,9 +5,24 @@
     top: 8%
     right: 8%
   &-2
-    animation: float1 9s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
     position: absolute
-    top: 58%
+    top: 10%
+    right: 80%
+  &-3
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 35%
+  &-4
+    animation: float2 6s ease-in-out infinite alternate
+    position: absolute
+    top: 18%
+    right: 67%
+  &-5
+    animation: float2 4s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
     right: 20%
 
 @keyframes float1
@@ -16,6 +31,13 @@
 
   100%
     transform: translateX(0px)
+
+@keyframes float2
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
 
 @-webkit-keyframes rotation 
   from 
