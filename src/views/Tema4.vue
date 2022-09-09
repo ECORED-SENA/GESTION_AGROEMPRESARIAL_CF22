@@ -5,37 +5,30 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1  Compensación laboral
+        span 4
+      h1  Normativa ambiental
+
+    #t_4_1.titulo-segundo.color-acento-contenido
+      .h4 4.1.	Recolección y clasificación de residuos sólidos
+
+    separador
+
+    #t_4_2.titulo-segundo.color-acento-contenido
+      .h4 4.2.	Manejo e inactivación de residuos sólidos
+
+    separador
+
+    #t_4_3.titulo-segundo.color-acento-contenido
+      .h4 4.3.	Transporte y disposición de residuos
     
-    eparador
-
-    #t_2_1.titulo-segundo.color-acento-contenido
-      .h4 2.1.	Reproductores
-
-
-    separador
-
-    #t_2_2.titulo-segundo.color-acento-contenido
-      .h4 2.2.	Celo
-
-    separador
-
-    #t_2_3.titulo-segundo.color-acento-contenido
-      .h4 2.3.	Monta natural
-
-    separador
-
-    #t_2_4.titulo-segundo.color-acento-contenido
-      .h4 2.4. Inseminación artificial
-
+   
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema4',
   data: () => ({
-    ///
+    // variables de vue
   }),
   mounted() {
     this.$nextTick(() => {

@@ -1,2 +1,1 @@
-module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+module.exports = 'Manejo de las especies pecuarias'

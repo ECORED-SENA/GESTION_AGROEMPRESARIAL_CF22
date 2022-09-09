@@ -5,37 +5,32 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1  Compensación laboral
+        span 5
+      h1  Plan de mejoramiento
+
+  
+    separador
+
+
+    #t_5_1.titulo-segundo.color-acento-contenido
+      .h4 5.1. Acciones preventivas
+
+    separador
+   
+
+    #t_5_2.titulo-segundo.color-acento-contenido
+      .h4 5.2. Acciones correctivas
+
+  
+
     
-    eparador
-
-    #t_2_1.titulo-segundo.color-acento-contenido
-      .h4 2.1.	Reproductores
-
-
-    separador
-
-    #t_2_2.titulo-segundo.color-acento-contenido
-      .h4 2.2.	Celo
-
-    separador
-
-    #t_2_3.titulo-segundo.color-acento-contenido
-      .h4 2.3.	Monta natural
-
-    separador
-
-    #t_2_4.titulo-segundo.color-acento-contenido
-      .h4 2.4. Inseminación artificial
-
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema5',
   data: () => ({
-    ///
+    // variables de vue
   }),
   mounted() {
     this.$nextTick(() => {

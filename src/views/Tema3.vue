@@ -3,23 +3,39 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    #t_3_1.pb-5.h2 tema 3.1
-    .pb-5(v-for="item of 15")
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero
+        span 3
+      h1  Normativa Seguridad y Salud en el Trabajo
+    
+    #t_3_1.titulo-segundo.color-acento-contenido
+      .h4 3.1.	Interpretación
 
-    #t_3_2.pb-5.h2 tema 3.2
-    .pb-5(v-for="item of 15")
+    separador
 
-    #t_3_3.pb-5.h2 tema 3.3
-    .pb-5(v-for="item of 15")
+    #t_3_2.titulo-segundo.color-acento-contenido
+      .h4 3.2.	Tipos de riesgo
 
-    #t_3_4.pb-5.h2 tema 3.4
-    .pb-5(v-for="item of 15")
+    separador
 
-    #t_3_5.pb-5.h2 tema 3.5
-    .pb-5(v-for="item of 15")
+    #t_3_3.titulo-segundo.color-acento-contenido
+      .h4 3.3.	Elementos de protección
 
-    #t_3_6.pb-5.h2 tema 3.6
-    .pb-5(v-for="item of 15")
+    separador
+
+    #t_3_4.titulo-segundo.color-acento-contenido
+      .h4 3.4. Prevención de accidentes, incidentes y enfermedades laborales
+
+    separador
+
+    #t_3_5.titulo-segundo.color-acento-contenido
+      .h4 3.5.	Condiciones inseguras
+
+    separador
+
+    #t_3_6.titulo-segundo.color-acento-contenido
+      .h4 3.6. Primeros auxilios
+
 
 </template>
 
