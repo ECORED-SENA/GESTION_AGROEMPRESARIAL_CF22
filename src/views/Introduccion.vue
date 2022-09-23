@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    P.mb-5 Se da la bienvenida al estudio del componente formativo “Manejo de las especies pecuarias”. Para dar comienzo a esta experiencia de aprendizaje, se debe observar con atención el vídeo que enseguida se muestra. ¡Adelante!
+    P.mb-5 Aquí comienza el estudio del componente formativo “Control y seguimiento”; se desea que todos los participantes tengan una buena experiencia de aprendizaje. Se debe comenzar con la visualización del video que se muestra enseguida. <b> <FONT COLOR="#A3314F"> ¡Adelante! </FONT> </b>
     
     figure.mb-5
       .video
