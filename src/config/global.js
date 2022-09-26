@@ -317,133 +317,199 @@ export default {
   },
   referencias: [
     {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+      referencia: 'Agudelo Gómez, D. (2016).',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://repository.lasallista.edu.co/dspace/bitstream/10567/1920/1/Manual_registros_tecnicos_LaSalada.pdf',
     },
     {
-      referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+      referencia: 'ARL Colmena. (2013). Guardián de seguridad.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.colmenaseguros.com/arl/gestion-conocimiento/material-educativo/Boletines/JUNIO-2013-GUARDIANES-DE-SEGURIDAD.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'ARL Sura (2018). Accidentes e incidentes de trabajo, importancia de la investigación de ambos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.arlsura.com/index.php/component/content/article/59-centro-de-documentacion-anterior/gestion-de-la-salud-ocupacional-/326--sp-27016',
     },
     {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+      referencia: 'ARL Sura. (2021). Actos inseguros.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.positivacomunica.com/wp-content/uploads/2018/10/Condiciones-inseguras-mail.html',
+    },
+    {
+      referencia: 'ARL Sura. (2021). Condiciones de trabajo inseguras.',
+      link:
+        'https://www.positivacomunica.com/wp-content/uploads/2018/10/Condiciones-inseguras-mail.html',
+    },
+    {
+      referencia: 'Carder (2017). Normatividad de residuos peligrosos.',
+      link:
+        'https://www.unilibre.edu.co/pereira/images/gaga/residuos-peligrosos.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Dirección de prevención y Atención de Emergencias (2009). Guía para elaborar planes de emergencia y contingencias.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/14249/Gu%c3%ada para elaborar planes de emergencia.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia: 'FAO (2007). Buenas prácticas en la alimentación animal.',
+      link:
+        'https://www.ica.gov.co/getattachment/1dbd9a0e-d689-4ac0-98bc-a82953c99f62/Publicacion-31.aspx',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'FAO (2010). La situación de los recursos zoogenéticos mundiales para la alimentación y la agricultura. ',
+      link: 'https://www.fao.org/3/a1250s/a1250s.pdf',
+    },
+    {
+      referencia:
+        'FAO (2010). La situación de los recursos zoogenéticos mundiales para la alimentación y la agricultura. ',
+      link: 'https://www.fao.org/3/a1250s/a1250s.pdf',
+    },
+    {
+      referencia:
+        'FAO (2021). Buenas Prácticas Agropecuarias (BPA) en la producción de ganado de doble propósito bajo confinamiento con caña panelera como parte de la dieta.',
+      link: 'https://www.fao.org/3/a1564s/a1564s03.pdf',
+    },
+    {
+      referencia:
+        'Fenavi (2021). Por medio de la cual se establecen medidas sanitarias diferenciadas para el control y erradicación de la enfermedad de Newcastle notificable en Colombia.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://fenavi.org/documentos/resolucion-30292-de-2017/#:~:text=Por%20medio%20de%20la%20cual,de%20Newcastle%20notificable%20en%20Colombia',
+    },
+    {
+      referencia:
+        'ICA (2007). Condiciones sanitarias y de inocuidad en la producción primaria de ganado porcino.',
+      link: 'https://www.porkcolombia.co/resolucion-ica-2640-de-2007/',
+    },
+    {
+      referencia:
+        'ICA (2007). Por la cual se reglamentan las condiciones sanitarias y de inocuidad en la producción primaria de ganado bovino y bufalino.',
+      link:
+        'https://www.ica.gov.co/getattachment/0b5de556-cb4a-43a8-a27a-cd9a2064b1ab/2341.aspx',
+    },
+    {
+      referencia:
+        'Metodología para el análisis de riesgos según ISO 9001. (s.f.).',
+      link:
+        'https://www.escuelaeuropeaexcelencia.com/2019/04/metodologia-para-el-analisis-de-riesgos-segun-iso-9001/',
+    },
+    {
+      referencia: 'Ministerio de Salud de Colombia (2021).',
+      link:
+        'https://www.minsalud.gov.co/proteccionsocial/RiesgosLaborales/Paginas/enfermedad-laboral.aspx',
+    },
+    {
+      referencia:
+        'Ministerio de trabajo (2016). Sistema de gestión de la seguridad y salud en el trabajo (SG-SST).',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/51963/Guia+tecnica+de+implementacion+del+SG+SST+para+Mipymes.pdf/e1acb62b-8a54-0da7-0f24-8f7e6169c178',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Anatomopatológicos',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Residuos provenientes de amputaciones, extirpaciones y otros tipos de escenarios',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Chimball',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Dispositivo que se coloca en la cabeza del animal (macho calentador o hembra androgenizada) para que identifique las hembras que están en celo.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Filtros sanitarios',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Puntos de control de ingreso o dentro de la unidad productiva donde se toman medidas para erradicar el virus mediante el lavado de  pies y manos.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Guardianes',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Recipientes de plástico debidamente rotulados en los que se empacan residuos cortopunzantes.',
     },
     {
-      termino: 'Moda',
+      termino: 'Patógenos',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Organismos microscópicos con la capacidad de producir enfermedades.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Pendulantes',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Que tienen movimiento oscilatorio o bien movimiento de péndulo.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Profiláctico',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es toda medida que se emplea antes de que el problema parezca.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Plan sanitario',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Resolución 2341 de 2007. [Instituto Colombiano Agropecuario ICA].   Por la cual se reglamentan las condiciones sanitarias y de inocuidad en la producción primaria de ganado bovino y bufalino destinado al sacrificio para consumo humano. 23 de agosto de 2007',
+      tipo: 'Resolución ICA',
+      link:
+        'https://www.ica.gov.co/getattachment/0b5de556-cb4a-43a8-a27a-cd9a2064b1ab/2341.aspx',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Protocolos',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Resolución 2640 de 2007. [Instituto Colombiano Agropecuario ICA]. Por la cual se reglamenta las Condiciones sanitarias y de inocuidad en la producción primaria de ganado porcino destinado al sacrificio para consumo humano. 28 de septiembre de 2007.',
+      tipo: 'Resolución ICA',
+      link: 'https://www.porkcolombia.co/resolucion-ica-2640-de-2007/',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Control de plagas y vectores',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Federación Nacional de Avicultores, Ministerio de Agricultura y Desarrollo Rural. (2016). Control de plagas en granjas avícolas (Video). YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=BImTIOu3rQo',
+    },
+    {
+      tema: 'Control de plagas y vectores',
+      referencia:
+        'Asociación Colombiana de Porcicultores, Fondo Nacional de la Porcicultura. (2017). Control de plagas en granjas porcícolas [Video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=cOguzwS1yyA',
+    },
+    {
+      tema: 'Inseminación artificial',
+      referencia:
+        'TvAgro. (2018). Cómo realizar el proceso de inseminación artificial en bovinos [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=13Y-oGONdBA',
+    },
+    {
+      tema: 'Elementos de protección',
+      referencia:
+        'Elearning group. (2017). Equipo de protección personal [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=B0SFi5WxWPs',
+    },
+    {
+      tema: 'Prevención de accidentes, incidentes y enfermedades laborales',
+      referencia: 'LTeam Formación Virtual. (2018). Ciclo PHVA [Video].',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=jE5gx6NLP68',
+    },
+    {
+      tema: 'Lista de chequeo',
+      referencia:
+        'Instituto Colombiano Agropecuario ICA. (2019). Lista de chequeo para predios productores de porcinos con destino al sacrificio.',
+      tipo: 'PDF',
+      link:
+        'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/listado-de-predios-certificados-en-bpg/forma-3-519-lista-de-chequeo-predios-productores-d.aspx',
+    },
+    {
+      tema: 'Comunicaicón',
+      referencia:
+        'González P. (2021). ¿Cuáles son los elementos de la comunicación?',
+      tipo: 'Página Web',
+      link:
+        'https://www.unprofesor.com/lengua-espanola/cuales-son-los-elementos-de-la-comunicacion-2447.html',
     },
   ],
   creditos: {
