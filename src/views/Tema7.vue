@@ -9,17 +9,17 @@
       h1  Registros y documentación
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-7
+      .col-md-7(data-aos="fade-right")
         .tarjeta.fondo3.p-3.mb-2
           p.mb-0 En las empresas pecuarias modernas <b> <FONT COLOR="#A3314F"> el manejo de los registros y la documentación se han convertido en pieza clave de todos los procesos de gestión administrativa. </FONT> </b> Igualmente, los avances tecnológicos en lo relacionado con el almacenamiento de información y la sistematización de los procesos han sido fundamentales para el desarrollo de unidades productivas más eficientes y con mayores facilidades para la toma de decisiones.
         .tarjeta.color-amarillo.p-3
           p.mb-0 La función principal de los registros es entregar información vital al administrador sobre la producción de los animales, sus características, su crecimiento, el consumo de alimento y demás parámetros productivos, con lo cual es posible tomar decisiones respecto al manejo de la explotación. 
-      .col-md-5
+      .col-md-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema7/vec1.svg', alt='Texto que describa la imagen')
 
     .row.justify-content-center.mb-4
-      .col-md-12
+      .col-md-12(data-aos="fade-up")
         .tarjeta.color-naranja.p-4
           .row.justify-content-center.align-items-center
             .col-md-1
@@ -29,12 +29,12 @@
               p.mb-0 En cuanto a la documentación de la unidad productiva es importante señalar que esta hace referencia a los documentos necesarios para que la unidad productiva pueda funcionar cumpliendo con los requisitos normativos. Dentro de estos documentos están los documentos del predio, los planos de las instalaciones, los protocolos de las diferentes labores, fichas técnicas de maquinaria y equipos, certificaciones y permisos, documentos del personal, registros y archivo general de la empresa. 
     separador 
 
-    #t_7_1.titulo-segundo.color-acento-contenido
+    #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 7.1.	Tipos
 
-    p.mb-4 <b>Existe una gran diversidad de registros que se pueden manejar al interior de la unidad productiva, estos dependen del tipo de explotación, de la especie y de la raza con la que se esté trabajando.</b> Entre los principales tipos de registros que pueden manejarse dentro de la unidad pecuaria están los siguientes:
+    p.mb-4(data-aos="fade-right") <b>Existe una gran diversidad de registros que se pueden manejar al interior de la unidad productiva, estos dependen del tipo de explotación, de la especie y de la raza con la que se esté trabajando.</b> Entre los principales tipos de registros que pueden manejarse dentro de la unidad pecuaria están los siguientes:
 
-    .row  
+    .row.mb-4(data-aos="fade-up")
       .col-md-12
         TabsB.color-acento-contenido.fondo5
           .fondo4.py-4.py-md-5(titulo="Labores" :icono="require('@/assets/curso/tema7/icon1.svg')")
@@ -153,11 +153,11 @@
                     p.mb-0 Inventario de recursos.
     separador
 
-    #t_7_2.titulo-segundo.color-acento-contenido
+    #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 7.2.	Formatos
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         .tarjeta.rosa.p-4
           .row
             .col-md-12
@@ -193,7 +193,7 @@
                       li 
                         i.fas.fa-check
                         p.mb-2 <b> <FONT COLOR="#A3314F"> Qué se va a registrar: </FONT> </b>  tener claridad sobre los datos que se quieren registrar, qué parámetros se van a medir y cómo pueden ser de utilidad para la administración de la unidad productiva.  
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         .tarjeta.rosa.p-4
           .row
             .col-md-12
@@ -226,16 +226,16 @@
                       li 
                         i.fas.fa-check
                         p.mb-2 Se deben formular <b> <FONT COLOR="#A3314F"> preguntas de fácil comprensión </FONT> </b> tanto para quien diligencia el formato como para quien lo sistematiza.
-    p.mb-4 Además de lo anterior es fundamental incluir dentro de los registros los siguientes datos: nombre de la finca, fecha de aprobación del formato, responsable de aprobación del formato, fecha de diligenciamiento, nombre y cargo de quien diligencia la información.
+    p.mb-4(data-aos="fade-right") Además de lo anterior es fundamental incluir dentro de los registros los siguientes datos: nombre de la finca, fecha de aprobación del formato, responsable de aprobación del formato, fecha de diligenciamiento, nombre y cargo de quien diligencia la información.
     separador
 
-    #t_7_3.titulo-segundo.color-acento-contenido
+    #t_7_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 7.3.	Inventarios
 
-    p.mb-4 Un inventario esencialmente <b>es una relación esquematizada y detallada de los recursos de los que se dispone al interior de la empresa pecuaria, de manera que se pueda conocer de antemano su cantidad, estado, disponibilidad y costo aproximado. </b>
-    p.mb-4 Al interior de la unidad productiva pecuaria es posible encontrar las siguientes clases de inventarios:
+    p.mb-4(data-aos="fade-right") Un inventario esencialmente <b>es una relación esquematizada y detallada de los recursos de los que se dispone al interior de la empresa pecuaria, de manera que se pueda conocer de antemano su cantidad, estado, disponibilidad y costo aproximado. </b>
+    p.mb-4(data-aos="fade-right") Al interior de la unidad productiva pecuaria es posible encontrar las siguientes clases de inventarios:
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade")
       .tarjeta.color-gris.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -265,9 +265,9 @@
           .col-8
             img(src='@/assets/curso/tema7/avatar5.svg' alt='AvatarTop')
         h5.text-center Inventario de instalaciones.
-    p.mb-4 Para construir un buen formato de inventario es necesario revisar los siguientes aspectos:
+    p.mb-4(data-aos="fade-right") Para construir un buen formato de inventario es necesario revisar los siguientes aspectos:
     .row.mb-4
-      .col-md-12
+      .col-md-12(data-aos="fade-up")
         .tarjeta.color-naranja2.p-4
           .row.justify-content-center.align-items-center
             .col-md-2
@@ -291,7 +291,7 @@
                   i.fas.fa-check
                   p.mb-1 Establecer códigos para los elementos que se encuentren en el inventario y marcarlos debidamente.
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-8
+      .col-md-8(data-aos="fade-right")
         .row
           .col-lg-12
             .tarjeta-avatar-b.mb-2
@@ -332,18 +332,18 @@
               .tarjeta.color-avatarb
                 .p-2.mb-0
                   p <b>Instalaciones:</b> en este inventario es importante señalar qué tipo de instalaciones se tienen, su estado actual y las fechas en las que han recibido mantenimiento. Dentro de su estado actual es importante aprovechar para señalar qué tipo de reparaciones locativas o actividades de mantenimiento se requieren.
-      .col-md-4
+      .col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema7/img1.png', alt='Texto que describa la imagen')
     separador
 
-    #t_7_4.titulo-segundo.color-acento-contenido
+    #t_7_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 7.4.	Listas de chequeo
 
-    p.mb-4 Una lista de chequeo es un mecanismo de control que funciona muy bien para verificar que se han cumplido cada uno de los pasos de un proceso o de una actividad en particular. <b>Estas listas de chequeo se emplean regularmente para evitar errores en la realización de tareas que son repetitivas y que requieren del desarrollo de acciones paso a paso de manera secuencial.</b> Igualmente, tienen una excelente aplicabilidad en procesos de monitoreo, seguimiento o auditoría ya que permiten verificar uno a uno los ítems a evaluar. 
+    p.mb-4(data-aos="fade-right") Una lista de chequeo es un mecanismo de control que funciona muy bien para verificar que se han cumplido cada uno de los pasos de un proceso o de una actividad en particular. <b>Estas listas de chequeo se emplean regularmente para evitar errores en la realización de tareas que son repetitivas y que requieren del desarrollo de acciones paso a paso de manera secuencial.</b> Igualmente, tienen una excelente aplicabilidad en procesos de monitoreo, seguimiento o auditoría ya que permiten verificar uno a uno los ítems a evaluar. 
 
     .row.mb-4
-      .col-md-12.col-12
+      .col-md-12.col-12(data-aos="fade-up")
         .bloque-texto-g.color-verde2.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img1.jpg')})`}"
@@ -351,18 +351,18 @@
           .bloque-texto-g__texto.p-5
             p Al igual que los demás formatos que <b> <FONT COLOR="#A3314F"> se emplean con frecuencia en la unidad productiva, estas listas llevan un encabezado en el que se recoge información como la fecha de diligenciamiento, la ubicación, el nombre del predio, los datos de la unidad productiva y el propósito de la verificación. </FONT> </b> Un ejemplo clásico de este tipo de documento es el que presenta el Instituto Colombiano Agropecuario denominado “Lista de chequeo para predios productores de porcinos con destino al sacrificio”. 
     
-    p.mb-4 A diferencia de otro tipo de formatos, <b>las listas de chequeo solo permiten respuestas cortas como “sí”, “no” o “cumple”, “no cumple”</b> ya que se emplean principalmente para procesos de evaluación o verificación. 
+    p.mb-4(data-aos="fade-right") A diferencia de otro tipo de formatos, <b>las listas de chequeo solo permiten respuestas cortas como “sí”, “no” o “cumple”, “no cumple”</b> ya que se emplean principalmente para procesos de evaluación o verificación. 
     separador
 
     #t_7_5.titulo-segundo.color-acento-contenido
       .h4 7.5.	Técnica de diligenciamiento
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-5
+      .col-md-5(data-aos="fade-right")
         p.mb-2 <b>Aparentemente el diligenciamiento de una lista de chequeo</b> es una tarea sencilla ya que este es un formato que contiene preguntas concretas que dan cuenta de la realización de determinados procesos o actividades. Sin embargo, a pesar de su sencillez, su diligenciamiento conlleva una gran responsabilidad debido a que a menudo estas son empleadas para la verificación del cumplimiento de tareas que resultan esenciales para la unidad productiva.
         figure
           img(src='@/assets/curso/tema7/img2.png', alt='Texto que describa la imagen')
-      .col-md-7
+      .col-md-7(data-aos="fade-left")
         .tarjeta.rosa3.p-4
           p.mb-4 <b>Para el correcto diligenciamiento de la lista de chequeo,</b> dada su aparente sencillez, se recomienda lo siguiente:
           ul.lista-ul--color
@@ -384,7 +384,7 @@
             li 
               i.fas.fa-check
               p.mb-1 Ante alguna duda en la comprobación de algún criterio solicitar una segunda opinión.
-    p.mb-0 En procesos como el montaje o instalación de equipos las listas de comprobación se convierten en herramientas que salvan vidas y evitan altos costos por daños en los implementos. Algunos de los protocolos al interior de la unidad productiva se basan en listas de comprobación puesto que evitan recurrir a la memoria humana la cual, en ocasiones, no es confiable. 
+    p.mb-0(data-aos="fade-right") En procesos como el montaje o instalación de equipos las listas de comprobación se convierten en herramientas que salvan vidas y evitan altos costos por daños en los implementos. Algunos de los protocolos al interior de la unidad productiva se basan en listas de comprobación puesto que evitan recurrir a la memoria humana la cual, en ocasiones, no es confiable. 
 
 </template>
 

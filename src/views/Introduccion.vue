@@ -9,11 +9,12 @@
           i.fas.fa-info
       h1 Introducción
 
-    P.mb-5 Aquí comienza el estudio del componente formativo “Control y seguimiento”; se desea que todos los participantes tengan una buena experiencia de aprendizaje. Se debe comenzar con la visualización del video que se muestra enseguida. <b> <FONT COLOR="#A3314F"> ¡Adelante! </FONT> </b>
+    P.mb-5(data-aos="fade-right") Aquí comienza el estudio del componente formativo “Control y seguimiento”; se desea que todos los participantes tengan una buena experiencia de aprendizaje. Se debe comenzar con la visualización del video que se muestra enseguida. <b> <FONT COLOR="#A3314F"> ¡Adelante! </FONT> </b>
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/7FochOXxCDM" title="Monitoreo de programas de sanidad y reproducción animal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
 </template>
 

@@ -8,25 +8,24 @@
         span 3
       h1  Normativa Seguridad y Salud en el Trabajo
 
-    p.mb-4 Uno de los aspectos que es transversal a la producción pecuaria y que por lo tanto debe ocupar buena parte de la atención del equipo de trabajo de la granja es el de la Seguridad y Salud en el Trabajo (SST), pues todas las actividades que se desarrollan deben tener en cuenta la normatividad y las recomendaciones que existen en este sentido. 
+    p.mb-4(data-aos="fade-right") Uno de los aspectos que es transversal a la producción pecuaria y que por lo tanto debe ocupar buena parte de la atención del equipo de trabajo de la granja es el de la <b>Seguridad y Salud en el Trabajo (SST)</b>, pues <b>todas las actividades que se desarrollan deben tener en cuenta la normatividad y las recomendaciones que existen</b> en este sentido. 
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12.col-12
         .bloque-texto-g.color-verde2.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p Las auditorías se basan en una serie de principios cuya intención es hacer que esta autoevaluación se convierta en una herramienta efectiva y confiable. Para ello, sus resultados deben respaldar las políticas de gestión de la calidad de la empresa, al tiempo que proporcionen información objetiva adecuada que permita obtener la mejora continua del sistema.
-            span Para la implementación de una auditoría en la etapa de poscosecha los encargados de ejecutarla deben tener en cuenta los principios básicos que rigen una auditoría, estos son: 
+            p El creciente interés de las empresas y las instituciones <b> <FONT COLOR="#A3314F"> del Estado por formalizar las explotaciones productivas ha llevado a que algunos protocolos relacionados con la protección de la salud y el bienestar de los trabajadores sean de obligatorio cumplimiento, </FONT> </b> con lo cual se contribuye a disminuir los accidentes, minimizar los riesgos y reducir las afectaciones al personal que labora en este tipo de industrias.
     separador
 
-    #t_3_1.titulo-segundo.color-acento-contenido
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 3.1.	Interpretación
 
-    p.mb-4 <b>La normativa relacionada con la SST en Colombia es bastante amplia y abarca una gran cantidad de leyes, decretos y resoluciones donde se destaca como principal referente el Código Sustantivo del Trabajo el cual se ha convertido en un documento que regula las relaciones entre empleados y empleadores. </b> La legislación relacionada con la SST en Colombia se puede agrupar de la siguiente manera:
+    p.mb-4(data-aos="fade-right") <b>La normativa relacionada con la SST en Colombia es bastante amplia y abarca una gran cantidad de leyes, decretos y resoluciones donde se destaca como principal referente el Código Sustantivo del Trabajo el cual se ha convertido en un documento que regula las relaciones entre empleados y empleadores. </b> La legislación relacionada con la SST en Colombia se puede agrupar de la siguiente manera:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.justify-content-center.align-items-center(titulo="Códigos")
           .col-md-1.mb-4.mb-md-0
@@ -94,25 +93,25 @@
               li 
                 i.fas.fa-check
                 | Ley 1010 2006 por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo.
-    p.mb-4 <b>En lo relacionado con la legislación sobre SST es posible identificar elementos importantes como la resolución 1792 de 1990 que regula lo referente a la exposición al ruido, o la 2646 de 2008 que se enfoca en el riesgo psicosocial, el cual hasta ese entonces no se registraba dentro de los factores de riesgo. </b> Al analizar en detalle cada una de las normas existentes es posible establecer que estas se han presentado como respuesta a problemáticas expuestas por los trabajadores las cuales a través de ejercicios de participación ciudadana y legislación se han logrado reglamentar para el bienestar de empleadores y empleados. 
+    p.mb-4(data-aos="fade-right") <b>En lo relacionado con la legislación sobre SST es posible identificar elementos importantes como la resolución 1792 de 1990 que regula lo referente a la exposición al ruido, o la 2646 de 2008 que se enfoca en el riesgo psicosocial, el cual hasta ese entonces no se registraba dentro de los factores de riesgo. </b> Al analizar en detalle cada una de las normas existentes es posible establecer que estas se han presentado como respuesta a problemáticas expuestas por los trabajadores las cuales a través de ejercicios de participación ciudadana y legislación se han logrado reglamentar para el bienestar de empleadores y empleados. 
     separador
 
-    #t_3_2.titulo-segundo.color-acento-contenido
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 3.2.	Tipos de riesgo
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         .tarjeta.fondo.p-5
           p.mb-0 Uno de los elementos primordiales de la Seguridad y Salud en el Trabajo es el de los riesgos, en este caso laborales, ya que todas las actividades humanas sin importar su carácter implican algún tipo de riesgo durante su ejecución. Así las cosas, un riesgo se define como la combinación de la probabilidad de que ocurra una o más exposiciones o eventos peligrosos y la severidad del daño que puede ser causada por éstos (Ministerio de trabajo, 2016). Teniendo en cuenta el riesgo como un factor que hace parte de la vida, la SST se encarga de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo. 
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.png', alt='')
 
-    p.mb-4 <b>La normatividad vigente en materia de SST identifica 5 clases de riesgo</b> los cuales definen el valor de la cotización que el trabajador debe pagar a la aseguradora de riesgos laborales (ARL). 
-    p.mb-4 Estas 5 clases de riesgo son las siguientes:
+    p.mb-4(data-aos="fade-right") <b>La normatividad vigente en materia de SST identifica 5 clases de riesgo</b> los cuales definen el valor de la cotización que el trabajador debe pagar a la aseguradora de riesgos laborales (ARL). 
+    p.mb-4(data-aos="fade-right") Estas 5 clases de riesgo son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-12
+      .col-md-12(data-aos="fade")
         .tabla-a.color-acento-botones 
           table
             caption Nota. FAO (2010).
@@ -142,29 +141,29 @@
                 td V
                 td 6,960 %
                 td Areneras, manejo de asbesto, bomberos, manejo de explosivos, construcción y explotación petrolera. 
-    p.mb-4 Como en todo proceso con empresas aseguradoras, <b>los mayores niveles de riesgo implican mayor monto en el pago de las pólizas.</b> Es por esto que los trabajadores de las áreas del petróleo, los explosivos o la construcción deben cancelar pólizas que equivalen al 6,960 % de su ingreso base de cotización (IBC), mientras que un empleado de riesgo I (trabajos de oficina, administrativos) paga sobre el 0,522 % de su IBC. 
+    p.mb-4(data-aos="fade-right") Como en todo proceso con empresas aseguradoras, <b>los mayores niveles de riesgo implican mayor monto en el pago de las pólizas.</b> Es por esto que los trabajadores de las áreas del petróleo, los explosivos o la construcción deben cancelar pólizas que equivalen al 6,960 % de su ingreso base de cotización (IBC), mientras que un empleado de riesgo I (trabajos de oficina, administrativos) paga sobre el 0,522 % de su IBC. 
     separador
 
-    #t_3_3.titulo-segundo.color-acento-contenido
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 3.3.	Elementos de protección
 
-    p.mb-4 <b>Una parte esencial de la SST es la protección de la salud de los trabajadores frente a los posibles riesgos asociados con su labor,</b> por lo que la identificación de los riesgos y la gestión necesaria para su mitigación se constituye en su esencia. 
+    p.mb-4(data-aos="fade-right") <b>Una parte esencial de la SST es la protección de la salud de los trabajadores frente a los posibles riesgos asociados con su labor,</b> por lo que la identificación de los riesgos y la gestión necesaria para su mitigación se constituye en su esencia. 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-3
+      .col-md-3(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/vec5.svg', alt='')
-      .col-md-9
+      .col-md-9(data-aos="fade-left")
         .tarjeta.color-rosa1.p-4.mb-4
           p.mb-0 Dentro de la gestión de los riesgos se toman medidas de todo tipo, las cuales se enfocan en evitar que ocurran accidentes que puedan afectar a los trabajadores y demás personal presente en las instalaciones. <b>Estas medidas pueden significar la eliminación de un peligro, su sustitución, la implementación de controles de ingeniería, los controles administrativos o la utilización de los EPP (elementos de protección personal). </b>
         p <b>En esencia los EPP son equipos llevados o sujetados por el trabajador para encontrar protección frente a uno o varios riesgos, </b> así como cualquier complemento o accesorio destinado a tal fin. Los EPP no evitan el accidente o el contacto con elementos agresivos, pero ayudan a que la lesión sea menos grave. 
     p.mb-4 Los elementos de protección personal más utilizados en los procesos productivos agropecuarios son los siguientes:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-12
+      .col-md-12(data-aos="fade-right")
         h5.text-center Equipo de protección personal
     .row 
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         .row.justify-content-center.align-items-center.mb-0
           .col-md-2
             figure
@@ -264,7 +263,7 @@
           .col-md-12
             hr.lineagris
               
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         .row.justify-content-center.align-items-center.mb-0
           .col-md-2
             figure
@@ -352,16 +351,16 @@
         .row.justify-content-center
           .col-md-12
             hr.lineagris
-    p.mb-4 Cada uno de los elementos empleados en la actividad productiva, dentro de sus manuales de operación o fichas técnicas, definen el tipo de protección personal que se debe usar para hacer una manipulación segura. Es importante identificar las hojas de seguridad o etiquetas informativas sobre las formas de uso y el equipo de protección personal que se debe utilizar en determinadas faenas. 
-    .titulo-principal1.color-acento-contenido
+    p.mb-4(data-aos="fade-right") Cada uno de los elementos empleados en la actividad productiva, dentro de sus manuales de operación o fichas técnicas, definen el tipo de protección personal que se debe usar para hacer una manipulación segura. Es importante identificar las hojas de seguridad o etiquetas informativas sobre las formas de uso y el equipo de protección personal que se debe utilizar en determinadas faenas. 
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h4.mb-0 Elementos de protección colectiva
 
-    p.mb-4 <b> <FONT COLOR="#A3314F"> Así como existen elementos para la protección personal, es decir, para cada individuo, en la gestión de riesgos también es posible emplear elementos de protección colectiva, </FONT> </b> los cuales se encargan de proteger de forma simultánea a varios trabajadores frente a algún determinado riesgo. 
+    p.mb-4(data-aos="fade-right") <b> <FONT COLOR="#A3314F"> Así como existen elementos para la protección personal, es decir, para cada individuo, en la gestión de riesgos también es posible emplear elementos de protección colectiva, </FONT> </b> los cuales se encargan de proteger de forma simultánea a varios trabajadores frente a algún determinado riesgo. 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-10
+      .col-md-10(data-aos="fade")
         .tarjeta.color-amarillo.p-5
           .row 
             .col-md-12
@@ -395,23 +394,23 @@
                   | Sistemas de insonorización.
                 li 
                   i.fas.fa-check
-                  | Delimitación de áreas - cercos perimetrales
+                  | Delimitación de áreas - cercos perimetrales.
                 li 
                   i.fas.fa-check
                   | Señalizaciones e indicativos.
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-10
+      .col-md-10(data-aos="fade-up")
         .tarjeta.color-naranja.p-4
           p.mb-0 Parte de la gestión de riesgos consiste en la identificación de los riesgos colectivos y en el desarrollo de las acciones necesarias para minimizar estas situaciones en los ambientes de trabajo. Igualmente, estas actividades deben combinarse con la capacitación a los trabajadores y la inducción y reinducción permanente sobre las medidas de autocuidado. 
     separador
 
-    #t_3_4.titulo-segundo.color-acento-contenido
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 3.4. Prevención de accidentes, incidentes y enfermedades laborales
 
-    p.mb-4 Para identificar los métodos de prevención de accidentes, incidentes y enfermedades laborales es primordial identificar cada uno de estos conceptos.
+    p.mb-4(data-aos="fade-right") Para identificar los métodos de prevención de accidentes, incidentes y enfermedades laborales es primordial identificar cada uno de estos conceptos.
 
-    .row
-      .col-md-12
+    .row.mb-4
+      .col-md-12(data-aos="fade")
         TabsA.color-acento-botones
           .tarjeta.clr-paleYellow.p-4(titulo="Accidente")
             h4 Accidente
@@ -439,14 +438,14 @@
                   img.mb-0(src='@/assets/curso/tema3/3.png', alt='Texto que describa la imagen')
               .col-md-10
                 p Es enfermedad laboral la contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral o del medio en el que el trabajador se ha visto obligado a trabajar.
-    p.mb-4 En vista de que tanto accidentes como incidentes son sucesos repentinos, no hay forma de predecir su ocurrencia, pero sí es posible tomar las precauciones necesarias para prevenirlos, esto quiere decir, identificar los riesgos y actuar en consecuencia para mitigarlos, teniendo en cuenta el ciclo de mejora continua o ciclo PHVA (Planear - Hacer - Verificar - Actuar).
-    p.mb-4 A continuación, algunas recomendaciones para la prevención de accidentes, incidentes y enfermedades laborales.
+    p.mb-4(data-aos="fade-right") En vista de que tanto accidentes como incidentes son sucesos repentinos, no hay forma de predecir su ocurrencia, pero sí es posible tomar las precauciones necesarias para prevenirlos, esto quiere decir, identificar los riesgos y actuar en consecuencia para mitigarlos, teniendo en cuenta el ciclo de mejora continua o ciclo PHVA (Planear - Hacer - Verificar - Actuar).
+    p.mb-4(data-aos="fade-left") A continuación, algunas recomendaciones para la prevención de accidentes, incidentes y enfermedades laborales.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-md-12
         h5.text-center Recomendaciones para la prevención de accidentes, incidentes y enfermedades laborales
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-up")
       .col-md-6.col-lg.mb-4
         .rosa.p-4
           .row.justify-content-center.mb-3
@@ -472,12 +471,12 @@
           p.text-center Evitar malas posturas en el desarrollo de la actividad laboral. Evitar movimientos repetitivos. Realizar pausas activas. Utilizar equipos de protección personal. Acudir periódicamente a los chequeos médicos de rutina. Seguir protocolos de bioseguridad. Informar a sus superiores sobre condiciones inseguras en el puesto de trabajo o en áreas de la empresa pecuaria. 
     separador
 
-    #t_3_5.titulo-segundo.color-acento-contenido
+    #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 3.5.	Condiciones inseguras
 
-    p.mb-4 En las actividades laborales, indistintamente del sector económico, existen lo que se conoce como <b> <FONT COLOR="#A3314F"> condiciones inseguras las cuales se definen como aquellas situaciones que se presentan en el lugar de trabajo y se caracterizan por la presencia de riesgos no controlados que pueden generar accidentes. </FONT> </b> Igualmente, además de las condiciones inseguras, existen los actos inseguros como los que se encuentran a continuación, los cuales son acciones u omisiones cometidas por las personas; estas posibilitan que se produzcan accidentes y se hacen por: impericia, imprudencia o negligencia. (ARL Positiva, 2018). 
+    p.mb-4(data-aos="fade-right") En las actividades laborales, indistintamente del sector económico, existen lo que se conoce como <b> <FONT COLOR="#A3314F"> condiciones inseguras las cuales se definen como aquellas situaciones que se presentan en el lugar de trabajo y se caracterizan por la presencia de riesgos no controlados que pueden generar accidentes. </FONT> </b> Igualmente, además de las condiciones inseguras, existen los actos inseguros como los que se encuentran a continuación, los cuales son acciones u omisiones cometidas por las personas; estas posibilitan que se produzcan accidentes y se hacen por: impericia, imprudencia o negligencia. (ARL Positiva, 2018). 
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-12.position-relative
         .crd.crd--avatarHorizontal.py-5
           .row.align-items-center
@@ -518,24 +517,24 @@
                       i.fas.fa-check
                       | Desorden y suciedad en el entorno de trabajo. 
 
-    p.mb-4 <b>Es deber del trabajador reportar estas condiciones inseguras al empleador a fin de que se tomen las medidas correspondientes. </b> Igualmente, se deben reportar los actos inseguros ya que la combinación de estos dos elementos puede resultar en situaciones extremadamente peligrosas para el trabajador, sus compañeros y la integridad de la unidad productiva. 
+    p.mb-4(data-aos="fade-right") <b>Es deber del trabajador reportar estas condiciones inseguras al empleador a fin de que se tomen las medidas correspondientes. </b> Igualmente, se deben reportar los actos inseguros ya que la combinación de estos dos elementos puede resultar en situaciones extremadamente peligrosas para el trabajador, sus compañeros y la integridad de la unidad productiva. 
 
     separador
 
-    #t_3_6.titulo-segundo.color-acento-contenido
+    #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 3.6. Primeros auxilios
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         .tarjeta.color-rosa1.p-4
           p.mb-0 Dentro de las unidades productivas pecuarias es normal que se presenten accidentes, pues a pesar de hacer una muy buena gestión de riesgos <b> <FONT COLOR="#A3314F"> riesgos existen situaciones fortuitas que pueden afectar la salud de los trabajadores, por lo que es necesario contar con programas y políticas empresariales dedicadas a la atención de estas emergencias, </FONT> </b> como es la atención en primeros auxilios. 
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img2.png' alt='AvatarTop')
-    p.mb-4 Para el personal de la empresa pecuaria, es fundamental el conocimiento sobre cómo actuar frente a determinadas situaciones, ya que las acciones que se tomen en esos primeros segundos tras la ocurrencia del accidente pueden significar la diferencia entre la vida y la muerte. En este orden de ideas, es absolutamente recomendable desarrollar un programa de capacitación en primeros auxilios que contenga como mínimo los siguientes aspectos:
+    p.mb-4(data-aos="fade-right") Para el personal de la empresa pecuaria, es fundamental el conocimiento sobre cómo actuar frente a determinadas situaciones, ya que las acciones que se tomen en esos primeros segundos tras la ocurrencia del accidente pueden significar la diferencia entre la vida y la muerte. En este orden de ideas, es absolutamente recomendable desarrollar un programa de capacitación en primeros auxilios que contenga como mínimo los siguientes aspectos:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-12
+      .col-md-12(data-aos="fade")
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta-avatar
             img(src='@/assets/curso/tema3/icon1.svg' alt='Alimentación')

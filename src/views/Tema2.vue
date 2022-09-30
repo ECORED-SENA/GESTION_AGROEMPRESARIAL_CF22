@@ -6,44 +6,44 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1  Compensación laboral
+      h1  Programa de reproducción
 
-    p.mb-4 <b>En una explotación pecuaria el programa de reproducción es un elemento de vital importancia ya que define en buena parte su sostenibilidad financiera.</b> En sistemas productivos de cría o de producción de leche, es muy importante considerar los factores ligados a la reproducción, ya que de ello depende que cada año la población de animales y la producción de leche aumenten y generen los ingresos esperados. 
+    p.mb-4(data-aos="fade-right") <b>En una explotación pecuaria el programa de reproducción es un elemento de vital importancia ya que define en buena parte su sostenibilidad financiera.</b> En sistemas productivos de cría o de producción de leche, es muy importante considerar los factores ligados a la reproducción, ya que de ello depende que cada año la población de animales y la producción de leche aumenten y generen los ingresos esperados. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10
         .row.align-items-center
-          .col-md-6
+          .col-md-6(data-aos="fade-right")
             figure
               img(src='@/assets/curso/tema2/img1.png', alt='')
-          .col-md-6
+          .col-md-6(data-aos="fade-left")
             .tarjeta.color-rosa1.p-5
               p.mb-0 En términos generales, <b> <FONT COLOR="#A3314F"> el programa de reproducción define los procesos, actividades y tareas orientadas hacia la producción de pie de cría teniendo en cuenta las características de desempeño reproductivo de cada especie  </FONT> </b> y los objetivos del sistema productivo, para así determinar la necesidad de recursos y la apropiación de los métodos que resulten más adecuados para sacar el mayor provecho a los animales. 
 
-    p.mb-4 Los componentes básicos que constituyen un programa de reproducción animal <b>se relacionan principalmente con los reproductores, el celo, los procesos de monta natural y las actividades de inseminación artificial.</b> A continuación, se presentan de forma detallada en qué consiste cada uno de ellos.      
+    p.mb-4(data-aos="fade-right") Los componentes básicos que constituyen un programa de reproducción animal <b>se relacionan principalmente con los reproductores, el celo, los procesos de monta natural y las actividades de inseminación artificial.</b> A continuación, se presentan de forma detallada en qué consiste cada uno de ellos.      
     separador
 
-    #t_2_1.titulo-segundo.color-acento-contenido
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 2.1.	Reproductores
 
-    p.mb-4 Todos <b>los procesos de mejoramiento genético tienen origen en la selección de los reproductores, ya que es importante identificar qué características se desean transmitir de una generación a otra.</b> Muchos de los rasgos de los animales que se aprecian hoy día como la precocidad, tamaño, productividad de leche y ganancia de peso, entre otras, corresponden a procesos de selección de animales que se han venido desarrollando por décadas. 
+    p.mb-4(data-aos="fade-right") Todos <b>los procesos de mejoramiento genético tienen origen en la selección de los reproductores, ya que es importante identificar qué características se desean transmitir de una generación a otra.</b> Muchos de los rasgos de los animales que se aprecian hoy día como la precocidad, tamaño, productividad de leche y ganancia de peso, entre otras, corresponden a procesos de selección de animales que se han venido desarrollando por décadas. 
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12
         figure
           img(src='@/assets/curso/tema2/img2.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         .tarjeta.color-rosa1.p-5
           p.mb-0 <b> <FONT COLOR="#A3314F"> Para la definición de las características de los reproductores es importante establecer para qué tipo de explotación se requieren, por ejemplo, si es para carne o para leche, </FONT> </b> e igualmente tener en cuenta factores como su condición corporal y estado sanitario en general. Además de lo anterior, hay algunos factores que requieren de análisis más especializados (como morfología y motilidad espermática) por lo que es importante contar con el apoyo profesional y tecnológico suficiente para realizarlos.
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img3.png', alt='')
-    p.mb-5 En ganadería bovina las principales condiciones de los reproductores (machos y hembras) son las siguientes:
+    p.mb-5(data-aos="fade-right") En ganadería bovina las principales condiciones de los reproductores (machos y hembras) son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-10
+      .col-md-10(data-aos="fade")
         .row
           .col-md-6.col-lg.mb-5.mb-lg-0.mb-4
             .tarjeta-avatar1
@@ -66,14 +66,14 @@
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Habilidad materna: </FONT> </b> vacas con terneros saludables y con mayor peso al destete.
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Ubres: </FONT> </b> ubres pendulantes y pezones de buen tamaño. 
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Temperamento lechero: </FONT> </b> habilidad para la producción de leche. 
-    p.mb-4 De acuerdo con FAO la selección de los reproductores se debe relacionar con los objetivos reproductivos, los cuales se definen como la lista de caracteres a mejorar genéticamente al interior de la explotación pecuaria. En el caso de los rumiantes, de acuerdo con la FAO, los principales objetivos reproductivos son los siguientes:
+    p.mb-4(data-aos="fade-right") De acuerdo con FAO la selección de los reproductores se debe relacionar con los objetivos reproductivos, los cuales se definen como la lista de caracteres a mejorar genéticamente al interior de la explotación pecuaria. En el caso de los rumiantes, de acuerdo con la FAO, los principales objetivos reproductivos son los siguientes:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-12
+      .col-md-12(data-aos="fade-right")
         h5.text-center Objetivos reproductivos en rumiantes
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-12
+      .col-md-12(data-aos="fade")
         .tabla-a.color-acento-botones 
           table
             caption Nota. FAO (2010).
@@ -157,15 +157,15 @@
                 td Vida funcional del rebaño
                 td 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img4.png', alt='')
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         p.mb-4 <b> <FONT COLOR="#A3314F"> En la actualidad buena parte del proceso de elección de los reproductores se ha sustituido con mejoras tecnológicas, como es el caso de la inseminación artificial, donde las pajillas que se utilizan para fecundar a las hembras </FONT> </b> se obtienen de machos reproductores con excelentes características, lo cual indudablemente ha conducido a sistemas productivos cada vez más eficientes, rentables y sostenibles.
         p.mb-0 <b>El manejo de los animales dedicados a las actividades reproductivas no es diferente al del resto de ejemplares,</b> salvo algunas consideraciones relacionadas con la preparación para cumplir con esta importante labor como las que se describen a continuación:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-8
+      .col-md-8(data-aos="fade-right")
         LineaTiempoD.color-linea
           .row.align-items-center(numero="1" titulo="Alimentación suficiente") 
             .col-md-12
@@ -173,7 +173,7 @@
 
           .row.align-items-center(numero="2" titulo="Manejo sanitario")
             .col-md-12
-              p es importante que además del manejo sanitario preventivo que se realiza a todos los animales, se efectúen análisis detallados de la salud de los reproductores. En el caso de los bovinos, por ejemplo, se recomienda hacer a los machos exámenes para detectar la presencia de Campilobacter y Tricomona ya que estos patógenos pueden derivar en enfermedades que ocasionalmente provocan abortos y muertes embrionarias. 
+              p es importante que además del manejo sanitario preventivo que se realiza a todos los animales, se efectúen análisis detallados de la salud de los reproductores. En el caso de los bovinos, por ejemplo, se recomienda hacer a los machos exámenes para detectar la presencia de <i>Campilobacter</i> y <i>Tricomona</i> ya que estos patógenos pueden derivar en enfermedades que ocasionalmente provocan abortos y muertes embrionarias. 
 
           .row.align-items-center(numero="3" titulo="Reemplazo de reproductores")
             .col-md-12
@@ -190,25 +190,25 @@
           .row.align-items-center(numero="6" titulo="Preñez") 
             .col-md-12
               p en esta etapa del proceso la hembra debe recibir una alimentación adecuada, especialmente en los últimos meses, con el fin de asegurar un buen desarrollo del feto. A pesar de los cuidados en la alimentación, se debe evitar la obesidad en los animales pues esto puede ocasionar problemas durante el parto. En el caso de las yeguas, no se recomienda que tengan jornadas extensas de trabajo a partir del sexto mes, aunque sí es recomendable que se ejerciten caminando. 
-      .col-md-4
+      .col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img5.png', alt='')
-    p.mb-4 Un manejo adecuado de los reproductores contribuirá a aumentar la efectividad de las montas y una mayor vida útil de los animales. Igualmente, de esta forma se garantizarán individuos con buen peso al nacer, con mayor resistencia a las enfermedades y con características que mejorarán la productividad de la explotación pecuaria. 
+    p.mb-4(data-aos="fade-right") Un manejo adecuado de los reproductores contribuirá a aumentar la efectividad de las montas y una mayor vida útil de los animales. Igualmente, de esta forma se garantizarán individuos con buen peso al nacer, con mayor resistencia a las enfermedades y con características que mejorarán la productividad de la explotación pecuaria. 
     separador
 
-    #t_2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 2.2.	Celo
 
-    p.mb-4 Dentro de los procesos de manejo reproductivo de las especies pecuarias el celo, o ciclo estral, es tal vez uno de los aspectos más importantes, pues su detección oportuna asegura una mayor tasa de fecundidad y por ende una mayor tasa reproductiva, que en definitiva es lo que más interesa al productor.
-    SlyderB.mb-5(:datos="datosSlyder")
-    .titulo-principal1.color-acento-contenido
+    p.mb-4(data-aos="fade-right") Dentro de los procesos de manejo reproductivo de las especies pecuarias el celo, o ciclo estral, es tal vez uno de los aspectos más importantes, pues su detección oportuna asegura una mayor tasa de fecundidad y por ende una mayor tasa reproductiva, que en definitiva es lo que más interesa al productor.
+    SlyderB.mb-5(:datos="datosSlyder")(data-aos="fade")
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h4.mb-0 Detección del celo
-    p.mb-4 Una de las actividades que contribuye al éxito del programa de reproducción es <b> <FONT COLOR="#A3314F"> la detección del celo, </FONT> </b> pues <b> <FONT COLOR="#A3314F"> esta determina el momento preciso en el cual se debe hacer la cubrición o monta a la hembra por parte del macho (en procesos de monta natural) o la inseminación artificial, </FONT> </b> en explotaciones donde se desarrolla este proceso. Cada especie tiene sus diferentes formas de manifestar el celo, pero algunos comportamientos son comunes a las hembras que están iniciando el celo y pueden ser indicativo de que el animal está atravesando por esta etapa. 
-    p.mb-4 Algunos de esos signos son los siguientes:
+    p.mb-4(data-aos="fade-right") Una de las actividades que contribuye al éxito del programa de reproducción es <b> <FONT COLOR="#A3314F"> la detección del celo, </FONT> </b> pues <b> <FONT COLOR="#A3314F"> esta determina el momento preciso en el cual se debe hacer la cubrición o monta a la hembra por parte del macho (en procesos de monta natural) o la inseminación artificial, </FONT> </b> en explotaciones donde se desarrolla este proceso. Cada especie tiene sus diferentes formas de manifestar el celo, pero algunos comportamientos son comunes a las hembras que están iniciando el celo y pueden ser indicativo de que el animal está atravesando por esta etapa. 
+    p.mb-4(data-aos="fade-right") Algunos de esos signos son los siguientes:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .tarjeta.tarjeta-gris.p-4
         .row
           .col-md-5
@@ -237,9 +237,9 @@
               li 
                 i.fas.fa-angle-right
                 | Las cerdas se quedan inmóviles cuando se les aplica presión sobre el lomo. 
-    p.mb-4 Además de los signos que pueden indicar que la hembra está en celo, es común la utilización de algunos métodos para la detección los cuales se basan en el comportamiento de los animales y en su propia biología. Dentro de los métodos más comunes están los siguientes:
+    p.mb-4(data-aos="fade-right") Además de los signos que pueden indicar que la hembra está en celo, es común la utilización de algunos métodos para la detección los cuales se basan en el comportamiento de los animales y en su propia biología. Dentro de los métodos más comunes están los siguientes:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .tarjeta.tarjeta-slyder.p-4
           SlyderA(tipo="b")
@@ -274,14 +274,14 @@
               .col-md-7
                 figure
                   img(src='@/assets/curso/tema2/4.png', alt='Texto que describa la imagen')
-    .titulo-principal1.color-acento-contenido
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h4.mb-0 Método de cubrición
 
-    p.mb-4 <b>Los métodos de cubrición más empleados</b> en la industria pecuaria son <b>la monta natural, monta dirigida, monta controlada y la inseminación artificial.</b> La elección del método a emplear en la unidad productiva <b>depende básicamente de los siguientes elementos:</b>
+    p.mb-4(data-aos="fade-right") <b>Los métodos de cubrición más empleados</b> en la industria pecuaria son <b>la monta natural, monta dirigida, monta controlada y la inseminación artificial.</b> La elección del método a emplear en la unidad productiva <b>depende básicamente de los siguientes elementos:</b>
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .tarjeta.color-rosa2.p-5
           .row.justify-content-center.align-items-center
@@ -347,22 +347,22 @@
               <b> <FONT COLOR="#A3314F"> Condiciones de peso, edad y estado de desarrollo de las hembras: </FONT> </b> en algunos casos, especialmente en cerdos, los machos reproductores son demasiado pesados para servir a las hembras, por lo que se deben utilizar métodos alternativos a la monta natural o a la monta dirigida.   
     separador
 
-    #t_2_3.titulo-segundo.color-acento-contenido
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 2.3.	Monta natural
 
-    p.mb-4 <b> <FONT COLOR="#A3314F"> En la monta natural el reproductor cubre a una hembra y deposita su semen dentro de ella con el fin de conseguir la preñez. </FONT> </b> . Este es uno de los métodos más utilizados, pues implica bajos costos y menor mano de obra. <b>La monta natural puede ser libre o dirigida.</b>  En el primero de los casos, los animales pueden copular en un ambiente libre sin ningún tipo de intervención. En el segundo método, se lleva a la hembra al corral donde se aloja el macho con el fin de evitar que este gaste energía innecesariamente y pueda cubrir a varias hembras en cada jornada.
+    p.mb-4(data-aos="fade-right") <b> <FONT COLOR="#A3314F"> En la monta natural el reproductor cubre a una hembra y deposita su semen dentro de ella con el fin de conseguir la preñez. </FONT> </b> . Este es uno de los métodos más utilizados, pues implica bajos costos y menor mano de obra. <b>La monta natural puede ser libre o dirigida.</b>  En el primero de los casos, los animales pueden copular en un ambiente libre sin ningún tipo de intervención. En el segundo método, se lleva a la hembra al corral donde se aloja el macho con el fin de evitar que este gaste energía innecesariamente y pueda cubrir a varias hembras en cada jornada.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10
         .row.justify-content-center.align-items-center
-          .col-md-6
+          .col-md-6(data-aos="fade-right")
             figure
               img(src='@/assets/curso/tema2/img7.png', alt='Texto que describa la imagen')
-          .col-md-6
+          .col-md-6(data-aos="fade-left")
             p.mb-0 En cuanto a <b>la monta controlada, se tiene que esta es común en los sistemas de producción bovina y consiste en el control de la época de monta de las vacas o de los meses que las vacas y los toros permanecen juntos.</b> Este método permite que los partos se den en épocas similares las cuales deben corresponder con periodos de abundancia de alimento a fin de evitar mermas en la producción.
-    p.mb-4 En los procesos de monta dirigida es importante tener en cuenta lo siguiente:
+    p.mb-4(data-aos="fade-right") En los procesos de monta dirigida es importante tener en cuenta lo siguiente:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-10
         .row
           .col-lg-6
@@ -402,21 +402,21 @@
                   p Se debe permitir un espacio para que los animales interactúen y se dispongan para la cópula. 
     separador
 
-    #t_2_4.titulo-segundo.color-acento-contenido
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 2.4. Inseminación artificial
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         p.mb-0 La inseminación artificial básicamente se puede definir como la introducción de líquido seminal obtenido del macho en los conductos genitales de la hembra a través de métodos artificiales. Para que el proceso de inseminación artificial se dé, es necesario que la hembra esté en celo. Incluso es recomendable que la inseminación se realice 12 horas después de iniciado el celo. Por su parte, el semen con el que se realiza el proceso de inseminación se obtiene mediante la estimulación del macho, posteriormente este es conservado y almacenado empleando técnicas de crioconservación las cuales garantizan la viabilidad del material genético por un tiempo determinado. 
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img8.png', alt='Texto que describa la imagen')
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up")
       .tarjeta.color-rojo.p-4
         p.mb-0.text-white Este método es ampliamente utilizado en explotaciones porcícolas, bovinas, equinas y caprinas, entre otras, en las cuales ha dejado excelentes resultados. Dentro de las principales ventajas que tiene están las siguientes:
 
-    .row.mb-2
+    .row.mb-2(data-aos="fade-up")
       .tarjeta.color-rosa3.p-5
         .row.justify-content-center.align-items-center
           .col-md-6
@@ -476,11 +476,11 @@
               .col-md-10
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Mejora el control de los parámetros reproductivos. </FONT> </b>
 
-    .row.justify-content-center.mb-2
+    .row.justify-content-center.mb-2(data-aos="fade-up")
       .tarjeta.color-verde.p-4
         p.mb-0 Al igual que ocurre con otros sistemas reproductivos, la inseminación artificial tiene desventajas, las cuales limitan su implementación en todas las unidades productivas:
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .tarjeta.color-verde1.p-5
         .row.justify-content-center.align-items-center
           .col-md-6
