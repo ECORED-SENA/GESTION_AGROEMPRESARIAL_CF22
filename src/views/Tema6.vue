@@ -9,11 +9,11 @@
       h1  Plan de contingencia
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-5(data-aos="fade-right")
+      .col-lg-5(data-aos="fade-right")
         .tarjeta.fondo2.p-5
           p.mb-2 <b>Una contingencia se define como un fenómeno que puede ocurrir o no en determinadas circunstancias y que puede afectar en diferentes grados al proyecto productivo. </b> Debido a que las contingencias pueden ser de diferente índole y que representan una amenaza constante, es necesario permanecer enfocados en la prevención.
           p.mb-0 Para conseguir identificar las contingencias es necesario en primera instancia realizar un análisis de riesgos, el cual consiste en la caracterización de los problemas potenciales a los que está expuesto el sistema productivo y la estimación de la probabilidad de que esos fenómenos afectan su normal funcionamiento. Para el desarrollo de un análisis de riesgos es recomendable lo siguiente:
-      .col-md-7(data-aos="fade-left")
+      .col-lg-7(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema6/img1.png', alt='Texto que describa la imagen')
 
@@ -24,38 +24,38 @@
             figure
               img(src='@/assets/curso/tema6/vec1.svg', alt='Texto que describa la imagen')
 
-          .tarjeta.color-blanca.p-3(x="26.1%" y="52%" numero="")
+          .tarjeta.color-blanca.p-3(x="26.1%" y="52%" numero="1")
             .h5.mb-2 Identificar los riesgos:
             p se pueden emplear reuniones, lluvias de ideas, encuestas o consultorías especializadas para lograr esta primera fase.   
 
-          .tarjeta.color-blanca.p-3(x="34.5%" y="28.5%" numero="")
+          .tarjeta.color-blanca.p-3(x="34.5%" y="28.5%" numero="2")
             .h5.mb-2 Determinar qué tan crítico es el riesgo:
             p asignar un valor numérico basados en la severidad del daño, la probabilidad de que ocurra y la posibilidad de detección. 
 
-          .tarjeta.color-blanca.p-3(x="52.3%" y="22.8%" numero="")
+          .tarjeta.color-blanca.p-3(x="52.3%" y="22.8%" numero="3")
             .h5.mb-2 Clasificar los riesgos:
             p se decide qué riesgos se pueden aceptar y qué riesgos definitivamente no.
 
-          .tarjeta.color-blanca.p-3(x="70%" y="51.5%" numero="")
+          .tarjeta.color-blanca.p-3(x="70%" y="51.5%" numero="4")
             .h5.mb-2 Definir acciones:
             p se definen las actividades preventivas que se llevarán a cabo para evitar las situaciones ya identificadas.
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6(data-aos="fade-right")
-        .tarjeta.color-rosa1.p-5
+      .col-lg-6(data-aos="fade-right")
+        .tarjeta.color-rosa1.p-5.mb-4
           p.mb-0 De acuerdo con la Cámara de Comercio de Bogotá, <b>un plan de contingencia, en el ámbito de los desastres naturales, permite prevenir y mitigar riesgos y atender los eventos con la suficiente eficacia, minimizando los daños a la comunidad y al ambiente.</b> En el entorno productivo el plan de contingencia igualmente permite prever las situaciones que puedan poner en riesgo el sistema y generar los procedimientos necesarios para evitar que sus efectos sean catastróficos. 
-      .col-md-6(data-aos="fade-left")
+      .col-lg-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema6/img2.png', alt='Texto que describa la imagen')
     separador 
 
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 6.1. Tipos
+      .h2 6.1. Tipos
 
     p.mb-4(data-aos="fade-right") Los planes de contingencia se pueden enfocar en varias alternativas para hacer frente a los problemas potenciales dependiendo de la clasificación de los riesgos, los cuales se pueden:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-5(data-aos="fade-right")
-        figure
+        figure.mb-4
           img(src='@/assets/curso/tema6/vec2.svg', alt='Texto que describa la imagen')
       .col-md-7(data-aos="fade-left")
         LineaTiempoD.color-linea
@@ -79,13 +79,13 @@
     separador
    
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 6.2. Características
+      .h2 6.2. Características
 
     p.mb-4(data-aos="fade-right") Con el desarrollo de <b> un adecuado análisis de riesgos es posible sentar las bases para la construcción de planes de contingencia sólidos y que realmente respondan a las situaciones que puedan llegar a presentarse en la unidad productiva. </b> Para que un plan de contingencias sea exitoso es necesario que cumpla con las siguientes características:
 
     .row.mb-4 
       .col-md-7(data-aos="fade-right")
-        LineaTiempoD.color-linea
+        LineaTiempoD.color-linea.mb-4
           .row.align-items-center(numero="1" titulo="Análisis de riesgos") 
             .col-md-12
               p Se especifica la empresa, el año, la vigencia del protocolo, quién lo elaboró y quién lo aprobó. 

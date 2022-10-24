@@ -78,7 +78,7 @@
   background-color: #D4D6B0
 
 .tarjeta-slyder
-  background-color: #DDDFC1
+  background-color: #F0F2D4
 
 .tabla-a.color-acento-botones thead
   border-color: #ffb70000
@@ -89,19 +89,33 @@
   background-color: #A3314F
 
 .anch
-  width: 378px
+  width: 40% !important
 
 .anch1
-  width: 118px
+  width: 9% !important
 
 .anch2
-  width: 138px
+  width: 11% !important
 
 .anch3
-  width: 94px
+  width: 14% !important
+
+.anch4
+  width: 40% !important
+
+.anch5
+  width: 10% !important
+
+.anch6
+  width: 55% !important
+
+td
+  text-align: center
 
 .fle
-  width: 35px
+  align-content: center
+  justify-content: center
+  width: 30px
 
 .tarjeta-blanca
   box-shadow: 0px 5px 10px 0px #0000002b
@@ -126,6 +140,8 @@
   display: inline-block
   padding-top: 50px !important
   height: 100%
+  @media (max-width: 742px)
+    width: 110%
 
 .zul
   background-color: #DEE4F0
@@ -193,6 +209,12 @@
 .acordion__activo
   background-color: #E1E4A8 !important
 
+.fondocuadros
+  background-image: url('../assets/curso/tema2/fondocuadros.svg')
+  background-size: cover
+  background-repeat: no-repeat
+  border-radius: 0px
+
 ///Tema3
 
 .fondo
@@ -224,6 +246,7 @@
 .rosa   
   background-color: #E2BFC8
   border-radius: 20px
+  height: 100%
 
 .crd--avatarHorizontal
   position: relative
@@ -237,53 +260,53 @@
     content: ''
     top: 17%
     right: 0
-    width: calc( 100% - 100px)
-    height: 75%
+    width: calc( 100% - 1%)
+    height: 70%
     background-color: #EFE0E4
     border-radius: 20px
 
-  @media (max-width: 1000px)
-    padding-right: 2rem
-
+  @media (max-width: 1400px)
+    position: relative
+    padding: 2rem
+    & > *
+      position: relative
+    p 
+      margin-bottom: 0
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0%
+      right: 0
+      width: calc( 100% - 1%)
+      height: 100%
+      background-color: #EFE0E4
+      border-radius: 20px
 .img1
   width: 306px
   @media (max-width: 1000px)
     width: auto
 
 .color-tarjeta
-  background-color: #F0F2D4
-  width: 328px
-  height: auto
-  @media screen and ( max-width: 1400px )
-    background-color: #F0F2D4
-    width: 270px
-    height: auto
-  @media screen and ( max-width: 1200px )
-    background-color: #F0F2D4
-    width: 330px
-    height: auto
-  @media screen and ( max-width: 999px )
-    background-color: #F0F2D4
-    width: 520px
-    height: auto
-  @media screen and ( max-width: 800px )
-    background-color: #F0F2D4
-    width: 410px
-    height: auto
-  @media screen and ( max-width: 600px )
-    background-color: #F0F2D4
-    width: 400px
-    height: auto
-  @media screen and ( max-width: 500px )
-    background-color: #F0F2D4
-    width: 290px
-    height: auto
-  @media screen and ( max-width: 400px )
-    background-color: #F0F2D4
-    width: 255px
-    height: auto
+  background-color:  #FBFCF4
+  width: 100%
+  height: 100%
+
+.tarjeta-avatar > img
+  position: absolute
+  left: 50%
+  top: 0
+  transform: translateX(-50%)
+  display: block
+  width: 130px
+  margin: 0 auto
 
 ///tema4
+
+.boton.color-acento-botones *, .color-acento-botones.boton--sm * 
+  color: #12263F
+
+.img-infografica.color-acento-botones .img-infografica__item__numero, .img-infografica-b.color-acento-botones .img-infografica__item__numero
+  color: #12263F
 
 .colordescarga
   background-color: #F4F6DD
@@ -300,9 +323,6 @@
 .color-amarillo2
   background-color: #F0F2D4
   border-radius: 20px
-
-.anch5
-  width: 380px
 
 ///tema6
 
@@ -335,55 +355,10 @@
   border-radius: 0px
   @media (max-width: 1000px)
     background-image: none
-    background-color: #ffffff !important
-
-.fondo4
-  background-image: url('../assets/curso/tema7/fondo2.svg')
-  background-size: cover
-  background-repeat: no-repeat
-  border-radius: 0px
-  @media (max-width: 1000px)
-    background-image: none
-    background-color: #F9F7EC !important
+    background-color: #FBFCF6 !important
 
 .fondo5
-  background-color: #F9F7EC !important
-
-.fondo6
-  background-image: url('../assets/curso/tema7/fondo3.svg')
-  background-size: cover
-  background-repeat: no-repeat
-  border-radius: 0px
-  @media (max-width: 1000px)
-    background-image: none
-    background-color: #F9F7EC !important
-
-.fondo7
-  background-image: url('../assets/curso/tema7/fondo4.svg')
-  background-size: cover
-  background-repeat: no-repeat
-  border-radius: 0px
-  @media (max-width: 1000px)
-    background-image: none
-    background-color: #F9F7EC !important
-
-.fondo8
-  background-image: url('../assets/curso/tema7/fondo5.svg')
-  background-size: cover
-  background-repeat: no-repeat
-  border-radius: 0px
-  @media (max-width: 1000px)
-    background-image: none
-    background-color: #F9F7EC !important
-
-.fondo9
-  background-image: url('../assets/curso/tema7/fondo6.svg')
-  background-size: cover
-  background-repeat: no-repeat
-  border-radius: 0px
-  @media (max-width: 1000px)
-    background-image: none
-    background-color: #F9F7EC !important
+  background-color: #FBFCF6 !important
 
 .blanca
   background-color: #ffffff !important
@@ -391,6 +366,7 @@
 
 .color-gris
   background-color: #D5DEE8 !important
+  height: 100% 
 
 .color-naranja2
   background-color: #FEE6AB
@@ -402,8 +378,8 @@
   width: auto
 
 .tarjeta-avatar-b__img 
-  min-width: 15%
-  max-width: 15%
+  min-width: 20%
+  max-width: 20%
   position: relative
   display: flex
   align-items: center
@@ -423,3 +399,17 @@
 
 .tarjeta-azul
   background-color: #F0F2D4
+
+.tabs-a__tab
+  display: block
+  width: 100%
+  text-align: left
+  background-color: #E8E8E8
+  padding: 15px 20px
+  border-radius: 5px
+  color: #111e61
+  line-height: 1.2em
+
+.colortem8
+  background-color: #FFF0CC
+  border-radius: 20px

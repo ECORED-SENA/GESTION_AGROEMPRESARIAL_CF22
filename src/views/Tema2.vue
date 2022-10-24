@@ -11,12 +11,12 @@
     p.mb-4(data-aos="fade-right") <b>En una explotación pecuaria el programa de reproducción es un elemento de vital importancia ya que define en buena parte su sostenibilidad financiera.</b> En sistemas productivos de cría o de producción de leche, es muy importante considerar los factores ligados a la reproducción, ya que de ello depende que cada año la población de animales y la producción de leche aumenten y generen los ingresos esperados. 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-10
-        .row.align-items-center
-          .col-md-6(data-aos="fade-right")
-            figure
+      .col-lg-10
+        .row.align-items-center.justify-content-center
+          .col-lg-6.col-md-10.col-12(data-aos="fade-right")
+            figure.mb-4
               img(src='@/assets/curso/tema2/img1.png', alt='')
-          .col-md-6(data-aos="fade-left")
+          .col-lg-6.col-md-12.col-12(data-aos="fade-left")
             .tarjeta.color-rosa1.p-5
               p.mb-0 En términos generales, <b> <FONT COLOR="#A3314F"> el programa de reproducción define los procesos, actividades y tareas orientadas hacia la producción de pie de cría teniendo en cuenta las características de desempeño reproductivo de cada especie  </FONT> </b> y los objetivos del sistema productivo, para así determinar la necesidad de recursos y la apropiación de los métodos que resulten más adecuados para sacar el mayor provecho a los animales. 
 
@@ -24,7 +24,7 @@
     separador
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 2.1.	Reproductores
+      .h2 2.1.	Reproductores
 
     p.mb-4(data-aos="fade-right") Todos <b>los procesos de mejoramiento genético tienen origen en la selección de los reproductores, ya que es importante identificar qué características se desean transmitir de una generación a otra.</b> Muchos de los rasgos de los animales que se aprecian hoy día como la precocidad, tamaño, productividad de leche y ganancia de peso, entre otras, corresponden a procesos de selección de animales que se han venido desarrollando por décadas. 
 
@@ -34,18 +34,18 @@
           img(src='@/assets/curso/tema2/img2.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6(data-aos="fade-right")
-        .tarjeta.color-rosa1.p-5
+      .col-lg-6.col-md-12(data-aos="fade-right")
+        .tarjeta.color-rosa1.p-5.mb-4
           p.mb-0 <b> <FONT COLOR="#A3314F"> Para la definición de las características de los reproductores es importante establecer para qué tipo de explotación se requieren, por ejemplo, si es para carne o para leche, </FONT> </b> e igualmente tener en cuenta factores como su condición corporal y estado sanitario en general. Además de lo anterior, hay algunos factores que requieren de análisis más especializados (como morfología y motilidad espermática) por lo que es importante contar con el apoyo profesional y tecnológico suficiente para realizarlos.
-      .col-md-6(data-aos="fade-left")
+      .col-lg-6.col-md-10(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img3.png', alt='')
     p.mb-5(data-aos="fade-right") En ganadería bovina las principales condiciones de los reproductores (machos y hembras) son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-10(data-aos="fade")
-        .row
-          .col-md-6.col-lg.mb-5.mb-lg-0.mb-4
+      .col-lg-12.col-9(data-aos="fade")
+        .row.justify-content-center
+          .col-lg-6.col-md-12.col-11.mb-4
             .tarjeta-avatar1
               img(src='@/assets/curso/tema2/avatar1.svg' alt='AvatarTop')
               .tarjeta.tarjeta-blanca
@@ -56,7 +56,7 @@
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Órganos reproductivos saludables: </FONT> </b> sanos, sin anormalidades visibles y tener buen desarrollo testicular. Prepucio corto y bien direccionado.
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Calidad espermática: </FONT> </b> buena motilidad y morfología. 
 
-          .col-md-6.col-lg.mb-5.mb-lg-0.mb-4
+          .col-lg-6.col-md-12.col-11.mb-4
             .tarjeta-avatar1
               img(src='@/assets/curso/tema2/avatar2.svg' alt='AvatarTop')
               .tarjeta.tarjeta-blanca
@@ -70,7 +70,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-12(data-aos="fade-right")
-        h5.text-center Objetivos reproductivos en rumiantes
+        h4.text-center Objetivos reproductivos en rumiantes
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-12(data-aos="fade")
@@ -81,84 +81,109 @@
               tr
                 th.text-white Objetivos/producto
                 th.text-white Criterios
-                th.text-white Especificación ulterior
+                th.text-white.anch6 Especificación ulterior
             thead
               tr
                 th.zul
                 th.zul Rasgos productivos
                 th.zul 
             tbody
-              tr
+              tr(style='background-color: #F6F6F6')
                 td Leche
-                td 
-                  p.mb-2 Cantidad
+                td  Cantidad
                   p.mb-0 Contenido/ calidad
-                td 
-                  p.mb-2 Producción de sustancias en leche
+                td  Producción de sustancias en leche
                   p.mb-0 % proteína, % grasa, recuento de células somáticas, coagulación de la leche
               tr
+                td 
+                td Contenido/ calidad
+                td proteína, % grasa, recuento de células somáticas, coagulación de la leche
+              tr(style='background-color: #F6F6F6')
                 td Carne
-                td 
-                  p.mb-2 Tasa de crecimiento
-                  p.mb-2 Calidad de la canal
-                  p.mb-0 Calidad de la carne
-                td 
-                  p.mb-2 En distintas edades
-                  p.mb-2 Contenido en grasa - cociente grasa/ carne
-                  p.mb-0 Terneza - jugosidad 
+                td  Tasa de crecimiento
+                td  En distintas edades
+              tr
+                td
+                td  Calidad de la canal
+                td  Contenido en grasa - cociente grasa/ carne
+              tr(style='background-color: #F6F6F6')
+                td
+                td Calidad de la carne
+                td Terneza - jugosidad 
               tr
                 td Lana
+                td Cantidad
+                td Longitud - diámetro
+              tr(style='background-color: #F6F6F6')
                 td 
-                  p.mb-2 Cantidad
-                  p.mb-0 Calidad de la fibra
+                td Calidad de la fibra
                 td 
-                  p.mb-2 Longitud - diámetro
             thead
               tr
                 th.zul 
                 th.zul Rasgos funcionales
                 th.zul
             tbody
-              tr
+              tr(style='background-color: #F6F6F6')
                 td Salud y bienestar
+                td  Defectos genéticos
+                td  
+              tr
                 td 
-                  p.mb-2 Defectos genéticos
-                  p.mb-2 Incidencia de mastitis
-                  p.mb-2 Conformación de ubres
-                  p.mb-2 Problemas en pies y patas
-                  p.mb-0 Locomoción
+                td Incidencia de mastitis
                 td 
-                  p.mb-2 Inserción de la ubre, profundidad de la ubre, características del pezón
-                  p.mb-0 Indicador de trastornos de la pezuña
+              tr(style='background-color: #F6F6F6')
+                td 
+                td Conformación de ubres
+                td Inserción de la ubre, profundidad de la ubre, características del pezón
+              tr
+                td 
+                td Problemas en pies y patas
+                td
+              tr(style='background-color: #F6F6F6')
+                td 
+                td Locomoción
+                td Indicador de trastornos de la pezuña
               tr
                 td Eficiencia reproductiva
+                td Fertilidad de la hembra
                 td 
-                  p.mb-2 Fertilidad de la hembra
-                  p.mb-2 Fertilidad del macho
-                  p.mb-2 Facilidad del parto
-                  p.mb-0 Número de nacidos vivos
+              tr(style='background-color: #F6F6F6')
                 td 
-                  p.mb-2 - Estros visibles, tasa de embarazo Tasa de no retorno, efectos directos y maternos, nacidos muertos
+                td Fertilidad del macho
+                td 
+              tr
+                td 
+                td Facilidad del parto
+                td Estros visibles, tasa de embarazo Tasa de no retorno, efectos directos y maternos, nacidos muertos
+              tr(style='background-color: #F6F6F6')
+                td 
+                td Número de nacidos vivos
+                td 
               tr
                 td Eficiencia del pienso 
+                td Eficiencia de la conversión del pienso 
                 td 
-                  p.mb-2 Eficiencia de la conversión del pienso 
-                  p.mb-0 Persistencia de la producción lechera
+              tr(style='background-color: #F6F6F6')
+                td 
+                td Persistencia de la producción lechera
                 td 
               tr
                 td Facilidad del trabajo
+                td Ordeñabilidad 
                 td 
-                  p.mb-2 Ordeñabilidad 
-                  p.mb-0 Comportamiento
+              tr(style='background-color: #F6F6F6')
                 td 
-                  p.mb-0 Velocidad de ordeño
+                td Comportamiento
+                td 
               tr
                 td Longevidad
                 td Vida funcional del rebaño
-                td 
+                td Velocidad de ordeño
+                
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6(data-aos="fade-right")
-        figure
+        figure.mb-4
           img(src='@/assets/curso/tema2/img4.png', alt='')
       .col-md-6(data-aos="fade-left")
         p.mb-4 <b> <FONT COLOR="#A3314F"> En la actualidad buena parte del proceso de elección de los reproductores se ha sustituido con mejoras tecnológicas, como es el caso de la inseminación artificial, donde las pajillas que se utilizan para fecundar a las hembras </FONT> </b> se obtienen de machos reproductores con excelentes características, lo cual indudablemente ha conducido a sistemas productivos cada vez más eficientes, rentables y sostenibles.
@@ -166,7 +191,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-8(data-aos="fade-right")
-        LineaTiempoD.color-linea
+        LineaTiempoD.color-linea.mb-4
           .row.align-items-center(numero="1" titulo="Alimentación suficiente") 
             .col-md-12
               p el animal debe contar con alimento y agua suficientes para su normal desarrollo y crecimiento. Un animal mal alimentado no es recomendable para desarrollar la función reproductora. 
@@ -197,7 +222,7 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 2.2.	Celo
+      .h2 2.2.	Celo
 
     p.mb-4(data-aos="fade-right") Dentro de los procesos de manejo reproductivo de las especies pecuarias el celo, o ciclo estral, es tal vez uno de los aspectos más importantes, pues su detección oportuna asegura una mayor tasa de fecundidad y por ende una mayor tasa reproductiva, que en definitiva es lo que más interesa al productor.
     SlyderB.mb-5(:datos="datosSlyder")(data-aos="fade")
@@ -210,9 +235,9 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .tarjeta.tarjeta-gris.p-4
-        .row
+        .row.align-items-center
           .col-md-5
-            figure
+            figure.mb-4
               img(src='@/assets/curso/tema2/img6.png', alt='')
           .col-md-7
             ul.lista-ul--color
@@ -282,84 +307,85 @@
     p.mb-4(data-aos="fade-right") <b>Los métodos de cubrición más empleados</b> en la industria pecuaria son <b>la monta natural, monta dirigida, monta controlada y la inseminación artificial.</b> La elección del método a emplear en la unidad productiva <b>depende básicamente de los siguientes elementos:</b>
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
-      .col-md-10
+      .col-lg-10.col-md-12.col-12
         .tarjeta.color-rosa2.p-5
           .row.justify-content-center.align-items-center
-            .col-md-1
+            .col-lg-1.col-md-2.col-2
               figure
                 img(src='@/assets/curso/tema2/icon1.svg', alt='Texto que describa la imagen')
-            .col-md-1
+            .col-lg-1.col-md-1.col-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero1.svg', alt='Texto que describa la imagen')
-            .col-md-10
+            .col-lg-10.col-md-9.col-8
               <b> <FONT COLOR="#A3314F"> La disponibilidad de material genético para realizar la inseminación artificial: </FONT> </b> no en todos los lugares se tiene acceso a las pajillas que contienen el semen de los reproductores seleccionados ni se cuenta con las condiciones para su conservación.  
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-md-1
+            .col-lg-1.col-md-2.col-2
               figure
                 img(src='@/assets/curso/tema2/icon2.svg', alt='Texto que describa la imagen')
-            .col-md-1
+            .col-lg-1.col-md-1.col-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero2.svg', alt='Texto que describa la imagen')
-            .col-md-10
+            .col-lg-10.col-md-9.col-8
               <b> <FONT COLOR="#A3314F"> El tipo de explotación desarrollada: </FONT> </b> en sistemas de economía campesina o de autoabastecimiento es más común el empleo de métodos de monta natural, especialmente por los menores costos. 
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-md-1
+            .col-lg-1.col-md-2.col-2
               figure
                 img(src='@/assets/curso/tema2/icon3.svg', alt='Texto que describa la imagen')
-            .col-md-1
+            .col-lg-1.col-md-1.col-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero3.svg', alt='Texto que describa la imagen')
-            .col-md-10
+            .col-lg-10.col-md-9.col-8
               <b> <FONT COLOR="#A3314F"> La disponibilidad de recursos e infraestructura para las labores de monta: </FONT> </b> en algunas unidades productivas no se cuenta con los recursos ni las instalaciones para el desarrollo de procesos de inseminación artificial, por lo que se debe recurrir a otros métodos.  
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-md-1
+            .col-lg-1.col-md-2.col-2
               figure
                 img(src='@/assets/curso/tema2/icon4.svg', alt='Texto que describa la imagen')
-            .col-md-1
+            .col-lg-1.col-md-1.col-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero4.svg', alt='Texto que describa la imagen')
-            .col-md-10
+            .col-lg-10.col-md-9.col-8
               <b> <FONT COLOR="#A3314F"> Suficiente cantidad de machos reproductores: </FONT> </b> en unidades productivas donde existe un número suficiente de machos reproductores es posible desarrollar métodos de monta natural. 
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-md-1
+            .col-lg-1.col-md-2.col-2
               figure
                 img(src='@/assets/curso/tema2/icon5.svg', alt='Texto que describa la imagen')
-            .col-md-1
+            .col-lg-1.col-md-1.col-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero5.svg', alt='Texto que describa la imagen')
-            .col-md-10
+            .col-lg-10.col-md-9.col-8
               <b> <FONT COLOR="#A3314F"> Condiciones de peso, edad y estado de desarrollo de las hembras: </FONT> </b> en algunos casos, especialmente en cerdos, los machos reproductores son demasiado pesados para servir a las hembras, por lo que se deben utilizar métodos alternativos a la monta natural o a la monta dirigida.   
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 2.3.	Monta natural
+      .h2 2.3.	Monta natural
 
     p.mb-4(data-aos="fade-right") <b> <FONT COLOR="#A3314F"> En la monta natural el reproductor cubre a una hembra y deposita su semen dentro de ella con el fin de conseguir la preñez. </FONT> </b> . Este es uno de los métodos más utilizados, pues implica bajos costos y menor mano de obra. <b>La monta natural puede ser libre o dirigida.</b>  En el primero de los casos, los animales pueden copular en un ambiente libre sin ningún tipo de intervención. En el segundo método, se lleva a la hembra al corral donde se aloja el macho con el fin de evitar que este gaste energía innecesariamente y pueda cubrir a varias hembras en cada jornada.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-10
+      .col-lg-10
         .row.justify-content-center.align-items-center
-          .col-md-6(data-aos="fade-right")
+          .col-lg-7.col-md-12(data-aos="fade-right")
             figure
               img(src='@/assets/curso/tema2/img7.png', alt='Texto que describa la imagen')
-          .col-md-6(data-aos="fade-left")
-            p.mb-0 En cuanto a <b>la monta controlada, se tiene que esta es común en los sistemas de producción bovina y consiste en el control de la época de monta de las vacas o de los meses que las vacas y los toros permanecen juntos.</b> Este método permite que los partos se den en épocas similares las cuales deben corresponder con periodos de abundancia de alimento a fin de evitar mermas en la producción.
+          .col-lg-5.col-md-12(data-aos="fade-left")
+            .tarjeta.fondocuadros.p-5
+              p.mb-4 En cuanto a <b>la monta controlada, se tiene que esta es común en los sistemas de producción bovina y consiste en el control de la época de monta de las vacas o de los meses que las vacas y los toros permanecen juntos.</b> Este método permite que los partos se den en épocas similares las cuales deben corresponder con periodos de abundancia de alimento a fin de evitar mermas en la producción.
     p.mb-4(data-aos="fade-right") En los procesos de monta dirigida es importante tener en cuenta lo siguiente:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
@@ -403,11 +429,11 @@
     separador
 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 2.4. Inseminación artificial
+      .h2 2.4. Inseminación artificial
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6(data-aos="fade-right")
-        p.mb-0 La inseminación artificial básicamente se puede definir como la introducción de líquido seminal obtenido del macho en los conductos genitales de la hembra a través de métodos artificiales. Para que el proceso de inseminación artificial se dé, es necesario que la hembra esté en celo. Incluso es recomendable que la inseminación se realice 12 horas después de iniciado el celo. Por su parte, el semen con el que se realiza el proceso de inseminación se obtiene mediante la estimulación del macho, posteriormente este es conservado y almacenado empleando técnicas de crioconservación las cuales garantizan la viabilidad del material genético por un tiempo determinado. 
+        p.mb-4 La inseminación artificial básicamente se puede definir como la introducción de líquido seminal obtenido del macho en los conductos genitales de la hembra a través de métodos artificiales. Para que el proceso de inseminación artificial se dé, es necesario que la hembra esté en celo. Incluso es recomendable que la inseminación se realice 12 horas después de iniciado el celo. Por su parte, el semen con el que se realiza el proceso de inseminación se obtiene mediante la estimulación del macho, posteriormente este es conservado y almacenado empleando técnicas de crioconservación las cuales garantizan la viabilidad del material genético por un tiempo determinado. 
       .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img8.png', alt='Texto que describa la imagen')
@@ -416,64 +442,64 @@
       .tarjeta.color-rojo.p-4
         p.mb-0.text-white Este método es ampliamente utilizado en explotaciones porcícolas, bovinas, equinas y caprinas, entre otras, en las cuales ha dejado excelentes resultados. Dentro de las principales ventajas que tiene están las siguientes:
 
-    .row.mb-2(data-aos="fade-up")
+    .row.mb-4(data-aos="fade-up")
       .tarjeta.color-rosa3.p-5
         .row.justify-content-center.align-items-center
           .col-md-6
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/1.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Reducción en el riesgo de trasmisión de enfermedades </FONT> </b> de trasmisión sexual.
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/2.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Se logra una rápida trasmisión de las características </FONT> </b> deseadas de padres a hijos.
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/3.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Se evita el desgaste físico de los verracos </FONT> </b> (en el caso de los cerdos) al disminuir sus desplazamientos. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/4.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Se reducen los riesgos de daños </FONT> </b> o lesiones a los animales durante la monta natural. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/6.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Mejora la uniformidad de los animales </FONT> </b> que se producen en la granja. 
           .col-md-6
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/7.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Mejora la uniformidad de los animales </FONT> </b> que se producen en la granja. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/8.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Reduce el consumo de forraje </FONT> </b> y facilita el manejo de la unidad productiva al excluir a los toros del proceso. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/9.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Facilita el diligenciamiento de registros </FONT> </b> y la trazabilidad de las actividades de reproducción. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/10.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Mejora el control de los parámetros reproductivos. </FONT> </b>
 
     .row.justify-content-center.mb-2(data-aos="fade-up")
@@ -485,41 +511,41 @@
         .row.justify-content-center.align-items-center
           .col-md-6
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/1.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-lg-9.col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> La tasa de preñez es menor </FONT> </b> que la de los procesos de monta natural. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/2.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-lg-9.col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Implica mayor inversión </FONT> </b> en capacitación del personal para la realización de los procesos. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/3.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-lg-9.col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Requiere de instalaciones apropiadas </FONT> </b> para el desarrollo de las labores. 
           .col-md-6
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/4.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-lg-9.col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Es una tarea delicada </FONT> </b> que puede tornarse compleja en entornos difíciles. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/6.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-lg-9.col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Exige mayor seguimiento a los celos de las hembras </FONT> </b> para identificar el momento preciso en el que se realizará la inseminación. 
             .row.justify-content-center.align-items-center.mb-4
-              .col-md-2
-                figure
+              .col-lg-3.col-md-5.col-5
+                figure.mb-2
                   img(src='@/assets/curso/tema2/7.svg', alt='Texto que describa la imagen')
-              .col-md-10
+              .col-lg-9.col-md-7
                 p.mb-0 <b> <FONT COLOR="#A3314F"> Su empleo en regiones donde sea complejo garantizar las condiciones de frío </FONT> </b> limita su uso. 
 </template>
 

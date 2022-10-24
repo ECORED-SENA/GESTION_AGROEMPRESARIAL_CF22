@@ -12,11 +12,18 @@
     p.mb-4(data-aos="fade-right") <b>El proceso comunicativo cuenta con cinco (5) elementos fundamentales que son emisor, mensaje, receptor, canal y código.</b> Si alguno de estos elementos no está presente sencillamente no hay proceso comunicativo. 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6(data-aos="fade-right")
-        figure
-          img(src='@/assets/curso/tema8/vec1.svg', alt='Texto que describa la imagen')
-      .col-md-6(data-aos="fade-left")
-        p.mb-2 En el reporte de las novedades encontradas en el proceso de monitoreo pueden emplearse distintos canales para transmitir la información al receptor, bien sea de manera individual o simultánea. <b>Lo importante es que se transmita el mensaje que se quiere entregar y se deje la respectiva trazabilidad. Igualmente, al interior de la empresa agropecuaria existen canales formales para hacer circular la información y otros que son de tipo informal, por lo que es importante saber diferenciar en qué momento es propicio utilizar uno u otro canal.</b>
+      .col-lg-6.col-md-12(data-aos="fade-right")
+        .tarjeta.colortem8.p-4.mb-4
+          .row.justify-content-center
+            .col-lg-12
+              p.mb-5.text-center <b> <FONT COLOR="#A3314F"> Ilustración sobre: elementos del proceso de comunicación </FONT> </b>
+              p.text-center Código: señas, signos, palabras
+            .col-lg-8
+              figure
+                img(src='@/assets/curso/tema8/vec1.svg', alt='Texto que describa la imagen')
+              p.text-center.mb-5 Canal: tv, radio, voz a voz, escrito
+      .col-lg-6.col-md-12(data-aos="fade-left")
+        p.mb-4 En el reporte de las novedades encontradas en el proceso de monitoreo pueden emplearse distintos canales para transmitir la información al receptor, bien sea de manera individual o simultánea. <b>Lo importante es que se transmita el mensaje que se quiere entregar y se deje la respectiva trazabilidad. Igualmente, al interior de la empresa agropecuaria existen canales formales para hacer circular la información y otros que son de tipo informal, por lo que es importante saber diferenciar en qué momento es propicio utilizar uno u otro canal.</b>
         figure
           img(src='@/assets/curso/tema8/img1.png', alt='Texto que describa la imagen')
     

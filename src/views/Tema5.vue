@@ -12,10 +12,10 @@
     p.mb-4(data-aos="fade-right") Las cuatro fases que posee el ciclo PHVA son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-4  
-      .col-md-5(data-aos="fade-right")
-        figure
+      .col-lg-5.col-md-10(data-aos="fade-right")
+        figure.mb-4
           img(src='@/assets/curso/tema5/img3.png', alt='Texto que describa la imagen')
-      .col-md-7(data-aos="fade-left")
+      .col-lg-7.col-md-12(data-aos="fade-left")
         .tarjeta.color-amarillo2.p-4.mb-4
           p.mb-0 <b>Planear:</b> en esta fase se define la programación de las actividades, se estima la demanda de recursos y se establecen los pasos a seguir para la implementación del plan de mejora. Es importante contar con información suficientemente detallada para realizar un correcto proceso de planeación.
         .tarjeta.color-amarillo2.p-4.mb-4
@@ -32,16 +32,16 @@
     separador
 
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 5.1. Acciones preventivas
+      .h2 5.1. Acciones preventivas
 
     p.mb-4(data-aos="fade-right") Como resultado de un plan de mejoramiento se tienen una serie de recomendaciones las cuales se basan en las observaciones realizadas durante el proceso de auditoría interna o externa. <b>En el caso de las acciones preventivas, se busca evitar la ocurrencia de alguna situación que pueda poner en riesgo la integridad de las personas o lo animales, al interior de la unidad agropecuaria. </b>
     p.mb-4(data-aos="fade-right") Dentro de las acciones preventivas que se pueden dar después de un proceso de auditoría están los siguientes ejemplos, de acuerdo con el tipo de riesgo:
 
     .row.justify-content-center.align-items-center.mb-4  
-      .col-md-3(data-aos="fade-right")
-        figure
+      .col-lg-3.col-md-4(data-aos="fade-right")
+        figure.mb-4
           img(src='@/assets/curso/tema5/img4.png', alt='Texto que describa la imagen')
-      .col-md-9(data-aos="fade-left")
+      .col-lg-9.col-md-12(data-aos="fade-left")
         .tabla-a.color-acento-botones 
           table
             caption Nota. FAO (2010).
@@ -62,19 +62,19 @@
     separador
 
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 5.2. Acciones correctivas
+      .h2 5.2. Acciones correctivas
 
     p.mb-4(data-aos="fade-right") Las acciones correctivas son aquellas que se toman para revertir una situación determinada o bien eliminar las causas potenciales y reales de un problema. Lo que se busca con su implementación es corregir algo que definitivamente no ha funcionado como se esperaba o ha tenido un resultado adverso para la empresa agropecuaria. 
     p.mb-4(data-aos="fade-right") Algunos ejemplos de medidas correctivas en un proceso productivo agropecuario son los siguientes:
 
-    .row.mb-4
+    .row.align-items-center.mb-4
       .col-md-9(data-aos="fade-right")
-        .tabla-a.color-acento-botones 
+        .tabla-a.color-acento-botones.mb-4
           table
             caption Nota. FAO (2010).
             thead
               tr
-                th.text-white.anch5 Situación identificada
+                th.text-white Situación identificada
                 th.text-white Acción correctiva
             tbody
               tr
