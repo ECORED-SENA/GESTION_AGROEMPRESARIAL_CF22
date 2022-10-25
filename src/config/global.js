@@ -523,9 +523,30 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable del equipo de Diseño Instruccional',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Carlos Andrés Sánchez Suárez',
+        cargo: 'Experto temático',
+        centro: 'Centro Agropecuario La Granja – Espinal Tolima.',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Regional Norte de Santander – Centro de la Industria, la Empresa y los Servicios.',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Asesora Metodológica',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
       },
     ],
     desarrolloProducto: [
@@ -554,8 +575,8 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Fabián Leonardo Correa Díaz',
-        cargo: 'Soporte front-end',
+        nombre: 'Andrea Botello',
+        cargo: 'Validación Maquetación',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -568,8 +589,7 @@ export default {
       {
         nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Revisión de guion audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
         nombre: 'María Carolina Tamayo López',
@@ -599,7 +619,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
+        cargo: 'Responsable del equipo de Gestión de Repositorio',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
