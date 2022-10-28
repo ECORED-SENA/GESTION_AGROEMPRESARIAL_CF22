@@ -24,7 +24,7 @@
     separador
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 2.1.	Reproductores
+      .h2 2.1	Reproductores
 
     p.mb-4(data-aos="fade-right") Todos <b>los procesos de mejoramiento genético tienen origen en la selección de los reproductores, ya que es importante identificar qué características se desean transmitir de una generación a otra.</b> Muchos de los rasgos de los animales que se aprecian hoy día como la precocidad, tamaño, productividad de leche y ganancia de peso, entre otras, corresponden a procesos de selección de animales que se han venido desarrollando por décadas. 
 
@@ -66,7 +66,7 @@
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Habilidad materna: </FONT> </b> vacas con terneros saludables y con mayor peso al destete.
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Ubres: </FONT> </b> ubres pendulantes y pezones de buen tamaño. 
                   p.mb-0 <b> <FONT COLOR="#A3314F"> Temperamento lechero: </FONT> </b> habilidad para la producción de leche. 
-    p.mb-4(data-aos="fade-right") De acuerdo con FAO la selección de los reproductores se debe relacionar con los objetivos reproductivos, los cuales se definen como la lista de caracteres a mejorar genéticamente al interior de la explotación pecuaria. En el caso de los rumiantes, de acuerdo con la FAO, los principales objetivos reproductivos son los siguientes:
+    p.mb-4(data-aos="fade-right") De acuerdo con FAO, la selección de los reproductores se debe relacionar con los objetivos reproductivos, los cuales se definen como la lista de caracteres a mejorar genéticamente al interior de la explotación pecuaria. En el caso de los rumiantes, de acuerdo con la FAO, los principales objetivos reproductivos son los siguientes:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-12(data-aos="fade-right")
@@ -89,35 +89,28 @@
                 th.zul 
             tbody
               tr(style='background-color: #F6F6F6')
-                td Leche
-                td  Cantidad
-                  p.mb-0 Contenido/ calidad
-                td  Producción de sustancias en leche
-                  p.mb-0 % proteína, % grasa, recuento de células somáticas, coagulación de la leche
+                <td rowspan="2">Leche</td>
+                td Cantidad
+                td Producción de sustancias en leche
               tr
-                td 
                 td Contenido/ calidad
                 td proteína, % grasa, recuento de células somáticas, coagulación de la leche
               tr(style='background-color: #F6F6F6')
-                td Carne
-                td  Tasa de crecimiento
-                td  En distintas edades
+                <td rowspan="3">Carne</td>
+                td Tasa de crecimiento
+                td En distintas edades
               tr
-                td
-                td  Calidad de la canal
-                td  Contenido en grasa - cociente grasa/ carne
+                td Calidad de la canal
+                td Contenido en grasa - cociente grasa/ carne
               tr(style='background-color: #F6F6F6')
-                td
                 td Calidad de la carne
                 td Terneza - jugosidad 
               tr
-                td Lana
+                <td rowspan="2">Lana</td>
                 td Cantidad
-                td Longitud - diámetro
+                <td rowspan="2">Longitud - diámetro</td>
               tr(style='background-color: #F6F6F6')
-                td 
                 td Calidad de la fibra
-                td 
             thead
               tr
                 th.zul 
@@ -125,61 +118,48 @@
                 th.zul
             tbody
               tr(style='background-color: #F6F6F6')
-                td Salud y bienestar
-                td  Defectos genéticos
+                <td rowspan="5">Salud y bienestar</td>
+                td Defectos genéticos
                 td  
               tr
-                td 
                 td Incidencia de mastitis
                 td 
               tr(style='background-color: #F6F6F6')
-                td 
                 td Conformación de ubres
                 td Inserción de la ubre, profundidad de la ubre, características del pezón
               tr
-                td 
                 td Problemas en pies y patas
-                td
-              tr(style='background-color: #F6F6F6')
                 td 
+              tr(style='background-color: #F6F6F6')
                 td Locomoción
                 td Indicador de trastornos de la pezuña
               tr
-                td Eficiencia reproductiva
+                <td rowspan="4">Eficiencia reproductiva</td>
                 td Fertilidad de la hembra
-                td 
+                <td rowspan="4">Estros visibles, tasa de embarazo Tasa de no retorno, efectos directos y maternos, nacidos muertos</td>
               tr(style='background-color: #F6F6F6')
-                td 
                 td Fertilidad del macho
-                td 
               tr
-                td 
                 td Facilidad del parto
-                td Estros visibles, tasa de embarazo Tasa de no retorno, efectos directos y maternos, nacidos muertos
               tr(style='background-color: #F6F6F6')
-                td 
                 td Número de nacidos vivos
-                td 
               tr
-                td Eficiencia del pienso 
+                <td rowspan="2">Eficiencia del pienso </td>
                 td Eficiencia de la conversión del pienso 
                 td 
               tr(style='background-color: #F6F6F6')
-                td 
                 td Persistencia de la producción lechera
                 td 
               tr
-                td Facilidad del trabajo
+                <td rowspan="2">Facilidad del trabajo</td>
                 td Ordeñabilidad 
-                td 
+                <td rowspan="2">Velocidad de ordeño</td>
               tr(style='background-color: #F6F6F6')
-                td 
                 td Comportamiento
-                td 
               tr
                 td Longevidad
                 td Vida funcional del rebaño
-                td Velocidad de ordeño
+                td 
                 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6(data-aos="fade-right")
@@ -194,27 +174,27 @@
         LineaTiempoD.color-linea.mb-4
           .row.align-items-center(numero="1" titulo="Alimentación suficiente") 
             .col-md-12
-              p el animal debe contar con alimento y agua suficientes para su normal desarrollo y crecimiento. Un animal mal alimentado no es recomendable para desarrollar la función reproductora. 
+              p El animal debe contar con alimento y agua suficientes para su normal desarrollo y crecimiento. Un animal mal alimentado no es recomendable para desarrollar la función reproductora. 
 
           .row.align-items-center(numero="2" titulo="Manejo sanitario")
             .col-md-12
-              p es importante que además del manejo sanitario preventivo que se realiza a todos los animales, se efectúen análisis detallados de la salud de los reproductores. En el caso de los bovinos, por ejemplo, se recomienda hacer a los machos exámenes para detectar la presencia de <i>Campilobacter</i> y <i>Tricomona</i> ya que estos patógenos pueden derivar en enfermedades que ocasionalmente provocan abortos y muertes embrionarias. 
+              p Es importante que además del manejo sanitario preventivo que se realiza a todos los animales, se efectúen análisis detallados de la salud de los reproductores. En el caso de los bovinos, por ejemplo, se recomienda hacer a los machos exámenes para detectar la presencia de <i>Campilobacter</i> y <i>Tricomona</i>, ya que estos patógenos pueden derivar en enfermedades que ocasionalmente provocan abortos y muertes embrionarias. 
 
           .row.align-items-center(numero="3" titulo="Reemplazo de reproductores")
             .col-md-12
-              p es necesario que durante el monitoreo a las actividades reproductivas se analice la necesidad de reemplazar a los reproductores debido a que pueden llegar a generar problemáticas al interior de la unidad productiva. En el caso de los bovinos, debe considerarse reemplazar a los machos reproductores en los siguientes casos: problemas sanitarios confirmados, consanguinidad (machos que pueden preñar a sus hijas) o cuando los reproductores sufran daños físicos que les impidan desarrollar esta actividad (lesiones en las patas o las pezuñas). 
+              p Es necesario que durante el monitoreo a las actividades reproductivas se analice la necesidad de reemplazar a los reproductores debido a que pueden llegar a generar problemáticas al interior de la unidad productiva. En el caso de los bovinos, debe considerarse reemplazar a los machos reproductores en los siguientes casos: problemas sanitarios confirmados, consanguinidad (machos que pueden preñar a sus hijas) o cuando los reproductores sufran daños físicos que les impidan desarrollar esta actividad (lesiones en las patas o las pezuñas). 
 
           .row.align-items-center(numero="4" titulo="Madurez sexual") 
             .col-md-12
-              p es importante, dependiendo de la especie, establecer la edad ideal para que el macho o la hembra inicien su etapa reproductiva. No se recomienda emplear animales muy jóvenes o que no tengan un desarrollo fisiológico completo pues esto ocasiona una disminución importante en su vida útil. Tampoco es aconsejable emplear animales longevos pues muchos de ellos a cierta edad ya han perdido parte de su capacidad reproductiva. 
+              p Es importante, dependiendo de la especie, establecer la edad ideal para que el macho o la hembra inicien su etapa reproductiva. No se recomienda emplear animales muy jóvenes o que no tengan un desarrollo fisiológico completo pues esto ocasiona una disminución importante en su vida útil. Tampoco es aconsejable emplear animales longevos pues muchos de ellos a cierta edad ya han perdido parte de su capacidad reproductiva. 
 
           .row.align-items-center(numero="5" titulo="Periodos de descanso")
             .col-md-12
-              p en el caso de los bovinos, en explotaciones donde el toro permanece todo el tiempo con las vacas, se recomienda que por cada 25 a 30 hembras se tenga un toro por un periodo de dos meses. Al cabo de este tiempo se recomienda dejar descansar al reproductor por un mes.
+              p En el caso de los bovinos, en explotaciones donde el toro permanece todo el tiempo con las vacas, se recomienda que por cada 25 a 30 hembras se tenga un toro por un periodo de dos meses. Al cabo de este tiempo se recomienda dejar descansar al reproductor por un mes.
 
           .row.align-items-center(numero="6" titulo="Preñez") 
             .col-md-12
-              p en esta etapa del proceso la hembra debe recibir una alimentación adecuada, especialmente en los últimos meses, con el fin de asegurar un buen desarrollo del feto. A pesar de los cuidados en la alimentación, se debe evitar la obesidad en los animales pues esto puede ocasionar problemas durante el parto. En el caso de las yeguas, no se recomienda que tengan jornadas extensas de trabajo a partir del sexto mes, aunque sí es recomendable que se ejerciten caminando. 
+              p En esta etapa del proceso la hembra debe recibir una alimentación adecuada, especialmente en los últimos meses, con el fin de asegurar un buen desarrollo del feto. A pesar de los cuidados en la alimentación, se debe evitar la obesidad en los animales pues esto puede ocasionar problemas durante el parto. En el caso de las yeguas, no se recomienda que tengan jornadas extensas de trabajo a partir del sexto mes, aunque sí es recomendable que se ejerciten caminando. 
       .col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img5.png', alt='')
@@ -222,7 +202,7 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 2.2.	Celo
+      .h2 2.2	Celo
 
     p.mb-4(data-aos="fade-right") Dentro de los procesos de manejo reproductivo de las especies pecuarias el celo, o ciclo estral, es tal vez uno de los aspectos más importantes, pues su detección oportuna asegura una mayor tasa de fecundidad y por ende una mayor tasa reproductiva, que en definitiva es lo que más interesa al productor.
     SlyderB.mb-5(:datos="datosSlyder")(data-aos="fade")
@@ -279,7 +259,7 @@
             .row
               .col-md-5.mb-4.mb-md-0
                 h5.mb-5 Hembras androgenizadas
-                p Son hembras con caracteríticas masculinas las cuales carecen de valor comercial para la reproducción. Estas hembras se tratan con hormonas (testosterona) para cumplir la función de marcadoras dentro del hato con la ayuda de un chimball. 
+                p Son hembras con características masculinas las cuales carecen de valor comercial para la reproducción. Estas hembras se tratan con hormonas (testosterona) para cumplir la función de marcadoras dentro del hato con la ayuda de un chimball. 
               .col-md-7
                 figure
                   img(src='@/assets/curso/tema2/2.png', alt='Texto que describa la imagen')
@@ -373,9 +353,9 @@
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 2.3.	Monta natural
+      .h2 2.3	Monta natural
 
-    p.mb-4(data-aos="fade-right") <b> <FONT COLOR="#A3314F"> En la monta natural el reproductor cubre a una hembra y deposita su semen dentro de ella con el fin de conseguir la preñez. </FONT> </b> . Este es uno de los métodos más utilizados, pues implica bajos costos y menor mano de obra. <b>La monta natural puede ser libre o dirigida.</b>  En el primero de los casos, los animales pueden copular en un ambiente libre sin ningún tipo de intervención. En el segundo método, se lleva a la hembra al corral donde se aloja el macho con el fin de evitar que este gaste energía innecesariamente y pueda cubrir a varias hembras en cada jornada.
+    p.mb-4(data-aos="fade-right") <b> <FONT COLOR="#A3314F"> En la monta natural el reproductor cubre a una hembra y deposita su semen dentro de ella con el fin de conseguir la preñez. </FONT> </b> Este es uno de los métodos más utilizados, pues implica bajos costos y menor mano de obra. <b>La monta natural puede ser libre o dirigida.</b>  En el primero de los casos, los animales pueden copular en un ambiente libre sin ningún tipo de intervención. En el segundo método, se lleva a la hembra al corral donde se aloja el macho con el fin de evitar que este gaste energía innecesariamente y pueda cubrir a varias hembras en cada jornada.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -429,7 +409,7 @@
     separador
 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 2.4. Inseminación artificial
+      .h2 2.4 Inseminación artificial
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6(data-aos="fade-right")
@@ -475,7 +455,7 @@
                 figure.mb-2
                   img(src='@/assets/curso/tema2/6.svg', alt='Texto que describa la imagen')
               .col-md-7
-                p.mb-0 <b> <FONT COLOR="#A3314F"> Mejora la uniformidad de los animales </FONT> </b> que se producen en la granja. 
+                p.mb-0 <b> <FONT COLOR="#A3314F"> Se mejora la calidad </FONT> </b> de los ejemplares en la unidad productiva al asegurar el alto valor genético de los reproductores.
           .col-md-6
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-3.col-md-5.col-5

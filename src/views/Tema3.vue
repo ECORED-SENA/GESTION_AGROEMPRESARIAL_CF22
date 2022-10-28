@@ -21,7 +21,7 @@
     separador
 
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 3.1.	Interpretación
+      .h2 3.1	Interpretación
 
     p.mb-4(data-aos="fade-right") <b>La normativa relacionada con la SST en Colombia es bastante amplia y abarca una gran cantidad de leyes, decretos y resoluciones donde se destaca como principal referente el Código Sustantivo del Trabajo el cual se ha convertido en un documento que regula las relaciones entre empleados y empleadores. </b> La legislación relacionada con la SST en Colombia se puede agrupar de la siguiente manera:
 
@@ -45,31 +45,31 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Resolución 2400 1979 por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
+                | Resolución 2400 de 1979 por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
               li 
                 i.fas.fa-check
-                | Resolución 2013 1986 por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.
+                | Resolución 2013 de 1986 por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.
               li 
                 i.fas.fa-check
-                | Resolución 1792 1990 por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido.
+                | Resolución 1792 de 1990 por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido.
               li 
                 i.fas.fa-check
-                | Resolución 1401 2007 por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.
+                | Resolución 1401 de 2007 por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.
               li 
                 i.fas.fa-check
-                | Resolución 2346 2007 por la cual se regula la práctica de evaluaciones médicas ocupacionales y el manejo y contenido de las historias clínicas ocupacionales.
+                | Resolución 2346 de 2007 por la cual se regula la práctica de evaluaciones médicas ocupacionales y el manejo y contenido de las historias clínicas ocupacionales.
               li 
                 i.fas.fa-check
-                | Resolución 2646 2008 por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo y para la determinación del origen de estas.
+                | Resolución 2646 de 2008 por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo y para la determinación del origen de estas.
               li 
                 i.fas.fa-check
-                | Resolución 0652 2012 por la cualquier se establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas y se di tan otros disposiciones.
+                | Resolución 0652 de 2012 por la cual se establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas y se dictan otras disposiciones.
               li 
                 i.fas.fa-check
-                | Resolución 1409 2012 por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.
+                | Resolución 1409 de 2012 por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.
               li 
                 i.fas.fa-check
-                | Resolución 0312 2019 por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.
+                | Resolución 0312 de 2019 por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.
 
         .row.justify-content-center.align-items-center(titulo="Decretos")
           .col-lg-1.col-md-2.col-4.mb-4.mb-md-0
@@ -79,10 +79,10 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Decreto-Ley 1295 1994 por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
+                | Decreto-Ley 1295 de 1994 por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
               li 
                 i.fas.fa-check
-                | Decreto 1072 2015 Decreto Único Reglamentario del Sector Trabajo.
+                | Decreto 1072 de 2015 Decreto Único Reglamentario del Sector Trabajo.
         
         .row.justify-content-center.align-items-center(titulo="Leyes")
           .col-lg-1.col-md-2.col-4.mb-4.mb-md-0
@@ -92,17 +92,17 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Ley 1010 2006 por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo.
+                | Ley 1010 de 2006 por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo.
     p.mb-4(data-aos="fade-right") <b>En lo relacionado con la legislación sobre SST es posible identificar elementos importantes como la resolución 1792 de 1990 que regula lo referente a la exposición al ruido, o la 2646 de 2008 que se enfoca en el riesgo psicosocial, el cual hasta ese entonces no se registraba dentro de los factores de riesgo. </b> Al analizar en detalle cada una de las normas existentes es posible establecer que estas se han presentado como respuesta a problemáticas expuestas por los trabajadores las cuales a través de ejercicios de participación ciudadana y legislación se han logrado reglamentar para el bienestar de empleadores y empleados. 
     separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 3.2.	Tipos de riesgo
+      .h2 3.2	Tipos de riesgo
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6(data-aos="fade-right")
         .tarjeta.fondo.p-5
-          p.mb-0 Uno de los elementos primordiales de la Seguridad y Salud en el Trabajo es el de los riesgos, en este caso laborales, ya que todas las actividades humanas sin importar su carácter implican algún tipo de riesgo durante su ejecución. Así las cosas, un riesgo se define como la combinación de la probabilidad de que ocurra una o más exposiciones o eventos peligrosos y la severidad del daño que puede ser causada por éstos (Ministerio de trabajo, 2016). Teniendo en cuenta el riesgo como un factor que hace parte de la vida, la SST se encarga de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo. 
+          p.mb-0 Uno de los elementos primordiales de la Seguridad y Salud en el Trabajo es el de los riesgos, en este caso laborales, ya que todas las actividades humanas sin importar su carácter implican algún tipo de riesgo durante su ejecución. Así las cosas, un riesgo se define como la combinación de la probabilidad de que ocurra una o más exposiciones o eventos peligrosos y la severidad del daño que puede ser causada por estos (Ministerio de trabajo, 2016). Teniendo en cuenta el riesgo como un factor que hace parte de la vida, la SST se encarga de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo. 
       .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.png', alt='')
@@ -145,7 +145,7 @@
     separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 3.3.	Elementos de protección
+      .h2 3.3	Elementos de protección
 
     p.mb-4(data-aos="fade-right") <b>Una parte esencial de la SST es la protección de la salud de los trabajadores frente a los posibles riesgos asociados con su labor,</b> por lo que la identificación de los riesgos y la gestión necesaria para su mitigación se constituye en su esencia. 
 
@@ -408,7 +408,7 @@
     separador
 
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 3.4. Prevención de accidentes, incidentes y enfermedades laborales
+      .h2 3.4 Prevención de accidentes, incidentes y enfermedades laborales
 
     p.mb-4(data-aos="fade-right") Para identificar los métodos de prevención de accidentes, incidentes y enfermedades laborales es primordial identificar cada uno de estos conceptos.
 
@@ -431,7 +431,7 @@
                 figure
                   img.mb-2(src='@/assets/curso/tema3/2.png', alt='Texto que describa la imagen')
               .col-lg-10.col-md-9.col-12
-                p Es un suceso repentino no deseado que ocurre por las mismas causas que se presentan los accidentes, sólo que por cuestiones del azar no desencadena lesiones en las personas, daños a la propiedad, al proceso o al ambiente.
+                p Es un suceso repentino no deseado que ocurre por las mismas causas que se presentan los accidentes, solo que por cuestiones del azar no desencadena lesiones en las personas, daños a la propiedad, al proceso o al ambiente.
             
           .tarjeta.clr-paleYellow.p-4(titulo="Enfermedad laboral")
             h4 Enfermedad laboral
@@ -475,9 +475,9 @@
     separador
 
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 3.5.	Condiciones inseguras
+      .h2 3.5	Condiciones inseguras
 
-    p.mb-4(data-aos="fade-right") En las actividades laborales, indistintamente del sector económico, existen lo que se conoce como <b> <FONT COLOR="#A3314F"> condiciones inseguras las cuales se definen como aquellas situaciones que se presentan en el lugar de trabajo y se caracterizan por la presencia de riesgos no controlados que pueden generar accidentes. </FONT> </b> Igualmente, además de las condiciones inseguras, existen los actos inseguros como los que se encuentran a continuación, los cuales son acciones u omisiones cometidas por las personas; estas posibilitan que se produzcan accidentes y se hacen por: impericia, imprudencia o negligencia. (ARL Positiva, 2018). 
+    p.mb-4(data-aos="fade-right") En las actividades laborales, indistintamente del sector económico, existen lo que se conoce como <b> <FONT COLOR="#A3314F"> condiciones inseguras, las cuales se definen como aquellas situaciones que se presentan en el lugar de trabajo y se caracterizan por la presencia de riesgos no controlados que pueden generar accidentes. </FONT> </b> Igualmente, además de las condiciones inseguras, existen los actos inseguros como los que se encuentran a continuación, los cuales son acciones u omisiones cometidas por las personas; estas posibilitan que se produzcan accidentes y se hacen por: impericia, imprudencia o negligencia. (ARL Positiva, 2018). 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-12.position-relative
@@ -520,17 +520,17 @@
                       i.fas.fa-check
                       | Desorden y suciedad en el entorno de trabajo. 
 
-    p.mb-4(data-aos="fade-right") <b>Es deber del trabajador reportar estas condiciones inseguras al empleador a fin de que se tomen las medidas correspondientes. </b> Igualmente, se deben reportar los actos inseguros ya que la combinación de estos dos elementos puede resultar en situaciones extremadamente peligrosas para el trabajador, sus compañeros y la integridad de la unidad productiva. 
+    p.mb-4(data-aos="fade-right") <b>Es deber del trabajador reportar estas condiciones inseguras al empleador a fin de que se tomen las medidas correspondientes. </b> Igualmente, se deben reportar los actos inseguros, ya que la combinación de estos dos elementos puede resultar en situaciones extremadamente peligrosas para el trabajador, sus compañeros y la integridad de la unidad productiva. 
 
     separador
 
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 3.6. Primeros auxilios
+      .h2 3.6 Primeros auxilios
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6.col-md-12(data-aos="fade-right")
         .tarjeta.color-rosa1.p-4.mb-4
-          p.mb-0 Dentro de las unidades productivas pecuarias es normal que se presenten accidentes, pues a pesar de hacer una muy buena gestión de riesgos <b> <FONT COLOR="#A3314F"> riesgos existen situaciones fortuitas que pueden afectar la salud de los trabajadores, por lo que es necesario contar con programas y políticas empresariales dedicadas a la atención de estas emergencias, </FONT> </b> como es la atención en primeros auxilios. 
+          p.mb-0 Dentro de las unidades productivas pecuarias es normal que se presenten accidentes, pues a pesar de hacer una muy buena gestión de riesgos <b> <FONT COLOR="#A3314F"> existen situaciones fortuitas que pueden afectar la salud de los trabajadores, por lo que es necesario contar con programas y políticas empresariales dedicadas a la atención de estas emergencias, </FONT> </b> como es la atención en primeros auxilios. 
       .col-lg-6.col-md-12(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img2.png' alt='AvatarTop')

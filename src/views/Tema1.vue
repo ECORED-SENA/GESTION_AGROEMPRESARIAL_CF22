@@ -25,7 +25,7 @@
     separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 1.1.	Bioseguridad
+      .h2 1.1	Bioseguridad
 
     p.mb-4 Indistintamente el tipo de explotación pecuaria y la especie animal, es importante mantener las medidas de bioseguridad.
 
@@ -33,14 +33,14 @@
       .col-lg-6
         .tarjeta.color-rosa1.p-4.mb-4
           p.mb-0 Según el Instituto Colombiano Agropecuario <b>(ICA) consiste en el conjunto de medidas para evitar, evaluar, prevenir, mitigar, manejar y/o controlar los posibles riesgos sanitarios</b> y sus efectos directos o indirectos en la salud humana, el medio ambiente, la biodiversidad, la productividad y producción agropecuaria. 
-        p.mb-4 Una granja biosegura es aquella en la que existe un <b>un plan para contrarrestar las amenazas ligadas a los problemas que puedan afectar la salud de los animales, del personal y del entorno natural en el que se desarrolla la actividad productiva</b> por lo que es un elemento clave dentro del plan sanitario preventivo. 
+        p.mb-4 Una granja biosegura es aquella en la que existe <b>un plan para contrarrestar las amenazas ligadas a los problemas que puedan afectar la salud de los animales, del personal y del entorno natural en el que se desarrolla la actividad productiva</b> por lo que es un elemento clave dentro del plan sanitario preventivo. 
       .col-lg-6
         figure
           img(src='@/assets/curso/tema1/img2.png', alt='')
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 1.2.	Protocolos
+      .h2 1.2	Protocolos
 
     p.mb-4(data-aos="fade-right") <b>Para la implementación de las medidas de bioseguridad del plan sanitario es importante desarrollar protocolos, </b> los cuales son:
 
@@ -89,9 +89,9 @@
     separador
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 1.3.	Control de plagas y vectores
+      .h2 1.3	Control de plagas y vectores
 
-    p.mb-4(data-aos="fade-up") En las unidades productivas pecuarias es común la presencia de plagas y vectores, los cuales pueden causar daño a los animales, instalaciones e insumos. <b>Las plagas básicamente consisten en poblaciones de animales, a menudo insectos o roedores, que pueden deteriorar la calidad de las instalaciones (termitas) o alimentarse de los insumos que son para uso de los animales (ratones, cucarachas, aves).</b> Por su parte, los vectores <b>vectores son animales que transportan, alojados dentro de sus órganos o estructuras, enfermedades o agentes contaminantes como ocurre con las moscas, zancudos y tábanos entre otros.</b> Cualquiera que sea la situación, desde el punto de vista sanitario es necesario implementar medidas que permitan reducir las poblaciones de estos organismos a través de distintas alternativas de control, tales como:
+    p.mb-4(data-aos="fade-up") En las unidades productivas pecuarias es común la presencia de plagas y vectores, los cuales pueden causar daño a los animales, instalaciones e insumos. <b>Las plagas básicamente consisten en poblaciones de animales, a menudo insectos o roedores, que pueden deteriorar la calidad de las instalaciones (termitas) o alimentarse de los insumos que son para uso de los animales (ratones, cucarachas, aves).</b> Por su parte, <b>los vectores son animales que transportan, alojados dentro de sus órganos o estructuras, enfermedades o agentes contaminantes como ocurre con las moscas, zancudos y tábanos, entre otros.</b> Cualquiera que sea la situación, desde el punto de vista sanitario es necesario implementar medidas que permitan reducir las poblaciones de estos organismos a través de distintas alternativas de control, tales como:
 
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-lg-10.col-md-12.col-12
@@ -124,7 +124,7 @@
     separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 1.4.	Limpieza y desinfección
+      .h2 1.4	Limpieza y desinfección
 
     .tarjeta.color1.p-4.mb-4(data-aos="fade-right")
       p.mb-0 <b>Otro de los procesos que requiere especial atención</b> dentro del plan sanitario preventivo es el de <b>la limpieza y desinfección de las instalaciones y equipos.</b> Cuando no se tiene especial cuidado en estos procesos se generan condiciones propicias para la propagación de agentes patógenos que pueden afectar el bienestar de los animales y las personas.
@@ -176,22 +176,22 @@
                 h5.mb-5 Fichas y registros 
                 p El diligenciamiento de fichas y registros de limpieza y desinfección es necesario para llevar un control detallado de las actividades realizadas y los responsables. 
 
-              .col-md-7.col-md-8.col-10
+              .col-lg-7.col-md-8.col-10
                 figure
                   img(src='@/assets/curso/tema1/5.png', alt='Texto que describa la imagen')
     separador
 
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 1.5.	Manual de bioseguridad
+      .h2 1.5	Manual de bioseguridad
 
     p.mb-0(data-aos="fade-up-right") Todas las actividades relacionadas con la prevención, mitigación, manejo y/o control de enfermedades al interior de la unidad productiva pecuaria se deben especificar en un manual el cual generalmente se construye con base en la normatividad aplicable a cada sector productivo, bien sea avícola, porcícola o bovino.
     p.mb-4(data-aos="fade-up-right") Como se aprecia a continuación, en la construcción de un manual de bioseguridad es necesario incluir los siguientes aspectos.
     figure.mb-5(data-aos="fade")
       .video
-        iframe(width="942" height="530" src="https://www.youtube.com/embed/7FochOXxCDM" title="Monitoreo de programas de sanidad y reproducción animal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/3Zjxptp5u5E" title="Manual de bioseguridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-4(data-aos="fade-up-left") Un buen proceso de limpieza y desinfección parte de la correcta elección de los productos empleados para estas labores, pues no todas las áreas, instalaciones o equipos se pueden tratar con los mismos elementos. 
-    p.mb-4(data-aos="fade-up-left") De acuerdo con la resolución del ICA 30292 de 2017 algunos de los productos que se emplean en la limpieza y desinfección en explotaciones avícolas para el manejo de problemas sanitarios son los siguientes:
+    p.mb-4(data-aos="fade-up-left") De acuerdo con la resolución del ICA 30292 de 2017, algunos de los productos que se emplean en la limpieza y desinfección en explotaciones avícolas para el manejo de problemas sanitarios son los siguientes:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-md-6
@@ -260,7 +260,7 @@
                 td 40 % Formaldehído
               tr
                 td.text-center 5c
-                td Gas formaldehído
+                td gas formaldehído
                 td Se requiere una generación específica
 
     p.mb-4(data-aos="fade-right") Respecto a los usos de estas sustancias, se tiene que estos se emplean en la desinfección de alojamientos, equipos, personas, equipos eléctricos, viviendas, maquinaria y vehículos, ropa e instalaciones. 
@@ -488,7 +488,7 @@
                     img.fle(src='@/assets/curso/tema1/flecha.png', alt='Texto que describa la imagen')
               tr
                 td 5c 
-                td 12Gas formaldehído
+                td Gas formaldehído
                 td 
                 td 
                 td

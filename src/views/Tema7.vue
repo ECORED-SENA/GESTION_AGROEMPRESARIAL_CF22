@@ -30,7 +30,7 @@
     separador 
 
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 7.1.	Tipos
+      .h2 7.1	Tipos
 
     p.mb-4(data-aos="fade-right") <b>Existe una gran diversidad de registros que se pueden manejar al interior de la unidad productiva, estos dependen del tipo de explotación, de la especie y de la raza con la que se esté trabajando.</b> Entre los principales tipos de registros que pueden manejarse dentro de la unidad pecuaria están los siguientes:
 
@@ -68,7 +68,7 @@
                         i.fas.fa-check
                         p.mb-0 Calendario productivo.
 
-          .fondo4(titulo="Labores" :icono="require('@/assets/curso/tema7/icon1.svg')")
+          .fondo4(titulo="Parámetros productivos" :icono="require('@/assets/curso/tema7/icon2.svg')")
             .row.justify-content-center.align-items-center
               .col-lg-6.col-md-6.mb-0.mb-md-0
                 h4.mb-5.py-4 Parámetros productivos
@@ -96,7 +96,7 @@
                         i.fas.fa-check
                         p.mb-0 Registros para ganadería de carne.
 
-          .fondo4(titulo="Labores" :icono="require('@/assets/curso/tema7/icon1.svg')")
+          .fondo4(titulo="Infraestructura" :icono="require('@/assets/curso/tema7/icon3.svg')")
             .row.justify-content-center.align-items-center
               .col-lg-6.col-md-6.mb-0.mb-md-0
                 h4.mb-5.py-4 Infraestructura
@@ -127,7 +127,7 @@
                         i.fas.fa-check
                         p.mb-0 Planos de instalaciones sanitarias y eléctricas.
                   
-          .fondo4(titulo="Labores" :icono="require('@/assets/curso/tema7/icon1.svg')")
+          .fondo4(titulo="Mantenimiento de maquinaria y equipos" :icono="require('@/assets/curso/tema7/icon4.svg')")
             .row.justify-content-center.align-items-center
               .col-lg-6.col-md-6.mb-0.mb-md-0
                 h4.mb-5.py-4 Mantenimiento de maquinaria y equipos
@@ -155,7 +155,7 @@
                         i.fas.fa-check
                         p.mb-0 Mantenimientos programados.
 
-          .fondo4(titulo="Labores" :icono="require('@/assets/curso/tema7/icon1.svg')")
+          .fondo4(titulo="Inventarios" :icono="require('@/assets/curso/tema7/icon5.svg')")
             .row.justify-content-center.align-items-center
               .col-lg-6.col-md-6.mb-0.mb-md-0
                 h4.mb-5.py-4 Inventarios
@@ -179,7 +179,7 @@
     separador
 
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 7.2.	Formatos
+      .h2 7.2	Formatos
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6(data-aos="fade-right")
@@ -255,7 +255,7 @@
     separador
 
     #t_7_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 7.3.	Inventarios
+      .h2 7.3	Inventarios
 
     p.mb-4(data-aos="fade-right") Un inventario esencialmente <b>es una relación esquematizada y detallada de los recursos de los que se dispone al interior de la empresa pecuaria, de manera que se pueda conocer de antemano su cantidad, estado, disponibilidad y costo aproximado. </b>
     p.mb-4(data-aos="fade-right") Al interior de la unidad productiva pecuaria es posible encontrar las siguientes clases de inventarios:
@@ -364,7 +364,7 @@
     separador
 
     #t_7_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 7.4.	Listas de chequeo
+      .h2 7.4	Listas de chequeo
 
     p.mb-4(data-aos="fade-right") Una lista de chequeo es un mecanismo de control que funciona muy bien para verificar que se han cumplido cada uno de los pasos de un proceso o de una actividad en particular. <b>Estas listas de chequeo se emplean regularmente para evitar errores en la realización de tareas que son repetitivas y que requieren del desarrollo de acciones paso a paso de manera secuencial.</b> Igualmente, tienen una excelente aplicabilidad en procesos de monitoreo, seguimiento o auditoría ya que permiten verificar uno a uno los ítems a evaluar. 
 
@@ -381,7 +381,7 @@
     separador
 
     #t_7_5.titulo-segundo.color-acento-contenido
-      .h2 7.5.	Técnica de diligenciamiento
+      .h2 7.5	Técnica de diligenciamiento
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-5(data-aos="fade-right")

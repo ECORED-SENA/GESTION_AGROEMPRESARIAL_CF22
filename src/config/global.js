@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Monitoreo de programas de sanidad y reproducción animal',
+      'Monitoreo de programas de alimentación, sanidad y reproducción animal',
     descripcionCurso:
       'En este componente, el aprendiz se capacitará en lo relacionado con aspectos teórico-prácticos del monitoreo en procesos de las unidades productivas pecuarias, en especial aquellos relacionados con la sanidad, la reproducción y el cumplimiento de la normativa asociada a este importante sector. Fortalecerá sus conocimientos en elementos como la bioseguridad, manejo de residuos y la salud de los trabajadores.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -357,11 +357,6 @@ export default {
       referencia: 'FAO (2007). Buenas prácticas en la alimentación animal.',
       link:
         'https://www.ica.gov.co/getattachment/1dbd9a0e-d689-4ac0-98bc-a82953c99f62/Publicacion-31.aspx',
-    },
-    {
-      referencia:
-        'FAO (2010). La situación de los recursos zoogenéticos mundiales para la alimentación y la agricultura. ',
-      link: 'https://www.fao.org/3/a1250s/a1250s.pdf',
     },
     {
       referencia:

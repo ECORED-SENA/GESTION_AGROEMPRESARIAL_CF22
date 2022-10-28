@@ -25,7 +25,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Para aprender más revisa el siguiente recurso: <b>Normativa ambiental aplicable al manejo y disposición de residuos sólidos en explotaciones pecuarias</b>
+                  p.mb-0 Para aprender más revisa el siguiente recurso: <b>"Normativa ambiental aplicable al manejo y disposición de residuos sólidos en explotaciones pecuarias"</b>
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/normativaambientalaplicable.pdf')" target="_blank")
                     span Descargar
@@ -33,7 +33,7 @@
     Separador
 
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 4.1.	Recolección y clasificación de residuos sólidos
+      .h2 4.1	Recolección y clasificación de residuos sólidos
 
     p.mb-4(data-aos="fade-right") <b> <FONT COLOR="#A3314F"> Los residuos sólidos producidos al interior de la unidad productiva se clasifican en cuatro grandes grupos principales: residuos reciclables, no reciclables, orgánicos y especiales. </FONT> </b> En este sentido, se tiene que el primer paso para la gestión integral de los residuos es su identificación, ya que existen algunos que tienen unas características altamente contaminantes por lo que requieren de un manejo distinto. Tipos de residuos sólidos que se producen en la unidad pecuaria.
 
@@ -64,7 +64,7 @@
     separador
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 4.2.	Manejo e inactivación de residuos sólidos
+      .h2 4.2	Manejo e inactivación de residuos sólidos
 
     p.mb-4(data-aos="fade-right") Para el manejo y disposición de los residuos sólidos existen diferentes alternativas, muchas de las cuales se pueden realizar dentro de la misma unidad productiva. Entre los tipos de manejo más frecuentes se encuentran los siguientes:
 
@@ -89,7 +89,7 @@
 
           .tarjeta.rosa.p-4(x="73.6%" y="13%" numero="4")
             .h5.mb-2 Residuos orgánicos: 
-            p Estos elementos son los más comunes dentro de las explotaciones pecuarias y corresponden a elementos que alguna vez tuvieron vida, bien sea plantas o animales. Una de las formas más eficientes de dispones de estos residuos es el compostaje o la producción de lombricultivo, ya que estos métodos permiten la degradación de estas sustancias de una forma controlada para posteriormente incorporarlas en forma de abono orgánico. En las explotaciones pecuarias, merece especial atención el manejo y disposición de mortalidades y desechos anatomopatológicos. 
+            p Estos elementos son los más comunes dentro de las explotaciones pecuarias y corresponden a elementos que alguna vez tuvieron vida, bien sea plantas o animales. Una de las formas más eficientes de disponer de estos residuos es el compostaje o la producción de lombricultivo, ya que estos métodos permiten la degradación de estas sustancias de una forma controlada para posteriormente incorporarlas en forma de abono orgánico. En las explotaciones pecuarias, merece especial atención el manejo y disposición de mortalidades y desechos anatomopatológicos. 
     .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
@@ -106,7 +106,7 @@
     separador
 
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 4.3.	Transporte y disposición de residuos
+      .h2 4.3	Transporte y disposición de residuos
 
     p.mb-4(data-aos="fade-right") En el manejo de los residuos sólidos al interior de la unidad productiva es necesario establecer las rutas que se deben seguir para evitar la contaminación cruzada y la diseminación de agentes infecciosos. <b>Los métodos de disposición de los residuos deben ser acordes con las capacidades del productor y de antemano conocer si se hará disposición final o parcial de los materiales de desecho.</b> En el caso de hacer disposición parcial, es importante conocer con qué empresa se realizará la disposición final y las condiciones en las que se entregarán los residuos. 
     
@@ -114,7 +114,7 @@
       .col-md-12
         figure
           img(src='@/assets/curso/tema4/img2.png', alt='Texto que describa la imagen')
-    p.mb-4(data-aos="fade-right") Para la disposición de los residuos no peligrosos igualmente se deben definir rutas, protocolos y procedimientos de manera que se eviten problemas asociados a la mala disposición de estos elementos al interior de la unidad productiva.
+    p.mb-4(data-aos="fade-right") Para la disposición de los residuos no peligrosos igualmente se deben definir rutas, protocolos y procedimientos, de manera que se eviten problemas asociados a la mala disposición de estos elementos al interior de la unidad productiva.
    
 </template>
 

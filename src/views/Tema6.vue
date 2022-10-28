@@ -49,7 +49,7 @@
     separador 
 
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 6.1. Tipos
+      .h2 6.1 Tipos
 
     p.mb-4(data-aos="fade-right") Los planes de contingencia se pueden enfocar en varias alternativas para hacer frente a los problemas potenciales dependiendo de la clasificación de los riesgos, los cuales se pueden:
 
@@ -61,25 +61,25 @@
         LineaTiempoD.color-linea
           .row.align-items-center(numero="1" titulo="Eliminar") 
             .col-md-12
-              p implica tomar medidas para evitar por completo la amenaza. Por ejemplo, ante el riesgo de inundación en una zona del predio se decide trasladar el alojamiento a un área elevada no inundable.  
+              p Implica tomar medidas para evitar por completo la amenaza. Por ejemplo, ante el riesgo de inundación en una zona del predio se decide trasladar el alojamiento a un área elevada no inundable.  
 
           .row.align-items-center(numero="2" titulo="Mitigar su impacto")
             .col-md-12
-              p implica desarrollar acciones para que en caso de que se presente la contingencia se puedan reducir los daños. Por ejemplo, en una zona inundable se pueden hacer construcciones elevadas para evitar daños a la infraestructura.  
+              p Implica desarrollar acciones para que en caso de que se presente la contingencia se puedan reducir los daños. Por ejemplo, en una zona inundable se pueden hacer construcciones elevadas para evitar daños a la infraestructura.  
 
           .row.align-items-center(numero="3" titulo="Tolerar")
             .col-md-12
-              p consiste en aceptar cierto nivel de riesgo teniendo en cuenta que de llegarse a presentar la situación los daños no serán de consideración para el sistema productivo o para la seguridad de los animales y los trabajadores. Por ejemplo, una falla en el suministro de energía eléctrica en una explotación de especies menores. 
+              p Consiste en aceptar cierto nivel de riesgo teniendo en cuenta que de llegarse a presentar la situación los daños no serán de consideración para el sistema productivo o para la seguridad de los animales y los trabajadores. Por ejemplo, una falla en el suministro de energía eléctrica en una explotación de especies menores. 
 
           .row.align-items-center(numero="4" titulo="Compartir") 
             .col-md-12
-              p consiste en un proceso mediante el cual se comparten o se transfieren los daños que pueda ocasionar el suceso con otra organización o empresa. Las empresas de seguros son un claro ejemplo de este tipo de manejo de contingencias.  
+              p Consiste en un proceso mediante el cual se comparten o se transfieren los daños que pueda ocasionar el suceso con otra organización o empresa. Las empresas de seguros son un claro ejemplo de este tipo de manejo de contingencias.  
 
     p.mb-4(data-aos="fade-right") Así las cosas, los planes de contingencia se pueden enfocar en eliminar, mitigar, tolerar o compartir el riesgo, a fin de disminuir las vulnerabilidades internas de la empresa pecuaria.   
     separador
    
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 6.2. Características
+      .h2 6.2 Características
 
     p.mb-4(data-aos="fade-right") Con el desarrollo de <b> un adecuado análisis de riesgos es posible sentar las bases para la construcción de planes de contingencia sólidos y que realmente respondan a las situaciones que puedan llegar a presentarse en la unidad productiva. </b> Para que un plan de contingencias sea exitoso es necesario que cumpla con las siguientes características:
 
@@ -88,27 +88,28 @@
         LineaTiempoD.color-linea.mb-4
           .row.align-items-center(numero="1" titulo="Análisis de riesgos") 
             .col-md-12
-              p Se especifica la empresa, el año, la vigencia del protocolo, quién lo elaboró y quién lo aprobó. 
+              p Siempre debe partir de un buen análisis de riesgos, de ello depende su efectividad.
 
           .row.align-items-center(numero="2" titulo="Evaluar los riesgos")
             .col-md-12
-              p Se debe especificar el objetivo principal del protocolo. Qué se espera con su implementación.  
+              p Conocer los riesgos de la unidad productiva en términos de su gravedad y la probabilidad de ocurrencia. 
 
           .row.align-items-center(numero="3" titulo="Identificar riesgos importantes:")
             .col-md-12
-              p priorizar aquellos riesgos que tienen una alta gravedad y una alta probabilidad de ocurrencia. 
+              p Priorizar aquellos riesgos que tienen una alta gravedad y una alta probabilidad de ocurrencia. 
 
           .row.align-items-center(numero="4" titulo="Establecer planes de contingencia para los mayores riesgos") 
             .col-md-12
-              p Debe contener un glosario con los términos que requieran una explicación un poco más amplia. 
+              p Definir planes de contingencia para cada riesgo con alta gravedad y alta probabilidad.
 
           .row.align-items-center(numero="5" titulo="Validación")
             .col-md-12
-              p Son las disposiciones que se deben seguir para garantizar el cumplimiento del objeto del protocolo. Además, es necesario incluir en cada protocolo qué elementos se deben utilizar, cómo se usan y qué medidas de protección personal se requieren para desarrollar las tareas con seguridad. 
+              p Socialización del plan al personal y directivos para su aprobación. 
 
           .row.align-items-center(numero="6" titulo="Verificación y análisis:") 
             .col-md-12
-              p Se desglosan paso a paso los procedimientos necesarios para cumplir el protocolo. Esto se hace de manera secuencial y detallada. 
+              p Evaluación periódica de los planes para mantenerlos actualizados y vigentes.
+
       .col-md-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema6/img3.png', alt='Texto que describa la imagen')

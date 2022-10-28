@@ -8,7 +8,7 @@
         span 5
       h1  Plan de mejoramiento
 
-    p.mb-4(data-aos="fade-right") En la actualidad una de las principales herramientas que existe para la gestión al interior de las empresas en lo relacionado con la mejora continua es el ciclo <b>ciclo PHVA (planear, hacer, verificar, actuar)</b> el cual permite aprender de los errores y capitalizar las experiencias. 
+    p.mb-4(data-aos="fade-right") En la actualidad una de las principales herramientas que existe para la gestión al interior de las empresas en lo relacionado con la mejora continua es el <b>ciclo PHVA (planear, hacer, verificar, actuar)</b> el cual permite aprender de los errores y capitalizar las experiencias. 
     p.mb-4(data-aos="fade-right") Las cuatro fases que posee el ciclo PHVA son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-4  
@@ -32,7 +32,7 @@
     separador
 
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 5.1. Acciones preventivas
+      .h2 5.1 Acciones preventivas
 
     p.mb-4(data-aos="fade-right") Como resultado de un plan de mejoramiento se tienen una serie de recomendaciones las cuales se basan en las observaciones realizadas durante el proceso de auditoría interna o externa. <b>En el caso de las acciones preventivas, se busca evitar la ocurrencia de alguna situación que pueda poner en riesgo la integridad de las personas o lo animales, al interior de la unidad agropecuaria. </b>
     p.mb-4(data-aos="fade-right") Dentro de las acciones preventivas que se pueden dar después de un proceso de auditoría están los siguientes ejemplos, de acuerdo con el tipo de riesgo:
@@ -62,7 +62,7 @@
     separador
 
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 5.2. Acciones correctivas
+      .h2 5.2 Acciones correctivas
 
     p.mb-4(data-aos="fade-right") Las acciones correctivas son aquellas que se toman para revertir una situación determinada o bien eliminar las causas potenciales y reales de un problema. Lo que se busca con su implementación es corregir algo que definitivamente no ha funcionado como se esperaba o ha tenido un resultado adverso para la empresa agropecuaria. 
     p.mb-4(data-aos="fade-right") Algunos ejemplos de medidas correctivas en un proceso productivo agropecuario son los siguientes:
