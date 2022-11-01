@@ -13,8 +13,7 @@
     
     figure.mb-5(data-aos="fade")
       .video
-        iframe(width="942" height="530" src="https://www.youtube.com/embed/7FochOXxCDM" title="Monitoreo de programas de sanidad y reproducción animal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/wbjL0tk2aQ8" title="Monitoreo de programas de alimentación, sanidad y reproducción animal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
