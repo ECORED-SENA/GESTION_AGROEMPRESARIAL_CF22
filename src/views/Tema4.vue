@@ -39,14 +39,14 @@
 
     .row.justify-content-center.align-items-center.mb-4 
       .col-md-10(data-aos="fade-up")
-        .tarjeta.rosa1.p-3
+        .tarjeta.rosa1.p-4
           .row.align-items-center.mb-0
             .col-lg-5.col-md-8
-              .row.justify-content-end
-                .col-md-9
+              .row.justify-content-center
+                .col-md-10
                   figure
                     img(src='@/assets/curso/tema4/vec1.png', alt='')
-            .col-lg-7.col-md-12.my-2
+            .col-lg-7.col-md-12
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
@@ -59,7 +59,7 @@
                   p <b>Residuos orgánicos: </b> corresponden a todos los elementos que alguna vez estuvieron vivos. Allí se destacan plumas, huevos dañados, excretas, residuos vegetales.
                 li 
                   i.fas.fa-check
-                  p <b>Residuos especiales: </b> son residuos que requieren algún tipo de manejo especial como restos de medicamentos, agujas, empaques de plaguicidas.
+                  p.mb-0 <b>Residuos especiales: </b> son residuos que requieren algún tipo de manejo especial como restos de medicamentos, agujas, empaques de plaguicidas.
     p.mb-4(data-aos="fade-right") Es importante que al interior de la unidad productiva se cuente con espacios suficientes para que el personal de la empresa disponga apropiadamente de los residuos sólidos y realice la selección en la fuente. 
     separador
 

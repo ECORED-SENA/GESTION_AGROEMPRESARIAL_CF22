@@ -164,7 +164,7 @@
         h4.text-center Equipo de protección personal
     .row.justify-content-center.mb-4
       .col-lg-10
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center
           .col-md-6(data-aos="fade-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-2.col-md-4.col-4
@@ -350,9 +350,6 @@
               .col-lg-10.col-md-8.col-12
                 h5.mb-4 Bota de caucho
                 p.mb-0 Especial para proteger del agua y el lodo. Liviana, flexible. Caña alta. 
-            .row.justify-content-center
-              .col-md-12
-                hr.lineagris
 
     p.mb-5(data-aos="fade-right") Cada uno de los elementos empleados en la actividad productiva, dentro de sus manuales de operación o fichas técnicas, definen el tipo de protección personal que se debe usar para hacer una manipulación segura. Es importante identificar las hojas de seguridad o etiquetas informativas sobre las formas de uso y el equipo de protección personal que se debe utilizar en determinadas faenas. 
     .titulo-principal1.color-acento-contenido(data-aos="fade-right")
@@ -364,13 +361,13 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10(data-aos="fade")
-        .tarjeta.color-amarillo.px-5
+        .tarjeta.color-amarillo
           .row 
             .col-lg-12
               p.text-center.my-4 Entre los elementos de protección colectiva más comúnmente empleados se encuentran los siguientes:
-          .row.justify-content-center.align-items-end
+          .row.justify-content-center.px-0.py-0
             .col-lg-7
-              figure.mb-4
+              figure
                 img.mb-0(src='@/assets/curso/tema3/vec6.svg', alt='Texto que describa la imagen')
             .col-lg-5
               ul.lista-ul--color.mx-2
@@ -449,7 +446,7 @@
         h4.text-center Recomendaciones para la prevención de accidentes, incidentes y enfermedades laborales
 
     .row.justify-content-center.mb-5(data-aos="fade-up")
-      .col-lg-6.col-md-10.mb-4
+      .col-lg-4.col-md-10.mb-4
         .rosa.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -457,7 +454,7 @@
           h5.text-center Prevención de accidentes
           p.text-center Realizar jornadas de capacitación e inducción al personal sobre temas de SST. Conocer los manuales de operación y fichas técnicas de equipos, herramientas e insumos. Utilizar los equipos de protección personal de manera correcta. Identificar los riesgos potenciales.  Contar con personal capacitado para el desarrollo de determinadas labores técnicas (electricidad, plomería, trabajo en altura). 
 
-      .col-lg-6.col-md-10.mb-4
+      .col-lg-4.col-md-10.mb-4
         .rosa.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -465,7 +462,7 @@
           h5.text-center Prevención de incidentes
           p.text-center Identificar puntos críticos y posibles riesgos para la integridad de las personas. Apegarse a los protocolos establecidos para el desarrollo de actividades dentro de la empresa pecuaria. Generar una cultura de la seguridad y la responsabilidad. Realizar jornadas de inducción y reinducción al personal en temas de SST. 
 
-      .col-lg-6.col-md-10.mb-4
+      .col-lg-4.col-md-10.mb-4
         .rosa.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -484,7 +481,7 @@
         .crd.crd--avatarHorizontal.py-5
           .row.align-items-center
             .col-lg-3.col-md-3
-              figure.mb-4
+              figure.mb-0
                 img(src='@/assets/curso/tema3/vec7.svg' alt='AvatarTop').img1
             .col-lg-9.col-md-9
               .row.align-items-center 

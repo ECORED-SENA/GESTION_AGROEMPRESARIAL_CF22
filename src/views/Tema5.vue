@@ -12,7 +12,7 @@
     p.mb-4(data-aos="fade-right") Las cuatro fases que posee el ciclo PHVA son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-4  
-      .col-lg-5.col-md-10(data-aos="fade-right")
+      .col-lg-5.col-md-7.col-10(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema5/img3.png', alt='Texto que describa la imagen')
       .col-lg-7.col-md-12(data-aos="fade-left")

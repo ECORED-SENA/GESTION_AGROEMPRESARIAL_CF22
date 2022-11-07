@@ -263,32 +263,32 @@
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade")
       .tarjeta.color-gris.p-3
         .row.justify-content-center.mb-3
-          .col-5
-            img(src='@/assets/curso/tema7/avatar1.svg' alt='AvatarTop')
+          .col-8
+            img.mb-0(src='@/assets/curso/tema7/avatar1.svg' alt='AvatarTop')
         h5.text-center Inventario de materias primas e insumos.
 
       .tarjeta.color-gris.p-4
         .row.justify-content-center.mb-3
-          .col-5
-            img(src='@/assets/curso/tema7/avatar2.svg' alt='AvatarTop')
+          .col-8
+            img.mb-0(src='@/assets/curso/tema7/avatar2.svg' alt='AvatarTop')
         h5.text-center.mb-4 Inventario de animales.
 
       .tarjeta.color-gris.p-4
         .row.justify-content-center.mb-3
-          .col-5
-            img(src='@/assets/curso/tema7/avatar3.svg' alt='AvatarTop')
+          .col-8
+            img.mb-0(src='@/assets/curso/tema7/avatar3.svg' alt='AvatarTop')
         h5.text-center.mb-4 Inventario de cobertura del suelo.
 
       .tarjeta.color-gris.p-4
         .row.justify-content-center.mb-3
-          .col-5
-            img(src='@/assets/curso/tema7/avatar4.svg' alt='AvatarTop')
+          .col-8
+            img.mb-0(src='@/assets/curso/tema7/avatar4.svg' alt='AvatarTop')
         h5.text-center.mb-4 Inventario de equipos y herramientas.
 
       .tarjeta.color-gris.p-4
         .row.justify-content-center.mb-3
-          .col-5
-            img(src='@/assets/curso/tema7/avatar5.svg' alt='AvatarTop')
+          .col-8
+            img.mb-0(src='@/assets/curso/tema7/avatar5.svg' alt='AvatarTop')
         h5.text-center.mb-4 Inventario de instalaciones.
 
     p.mb-4(data-aos="fade-right") Para construir un buen formato de inventario es necesario revisar los siguientes aspectos:

@@ -188,7 +188,7 @@
     p.mb-4(data-aos="fade-up-right") Como se aprecia a continuación, en la construcción de un manual de bioseguridad es necesario incluir los siguientes aspectos.
     figure.mb-5(data-aos="fade")
       .video
-        iframe(width="942" height="530" src="https://www.youtube.com/embed/3Zjxptp5u5E" title="Manual de bioseguridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/4i5PD6f9LF4" title="Manual de bioseguridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-4(data-aos="fade-up-left") Un buen proceso de limpieza y desinfección parte de la correcta elección de los productos empleados para estas labores, pues no todas las áreas, instalaciones o equipos se pueden tratar con los mismos elementos. 
     p.mb-4(data-aos="fade-up-left") De acuerdo con la resolución del ICA 30292 de 2017, algunos de los productos que se emplean en la limpieza y desinfección en explotaciones avícolas para el manejo de problemas sanitarios son los siguientes:
