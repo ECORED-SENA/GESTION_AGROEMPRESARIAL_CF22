@@ -333,14 +333,9 @@ export default {
         'https://www.arlsura.com/index.php/component/content/article/59-centro-de-documentacion-anterior/gestion-de-la-salud-ocupacional-/326--sp-27016',
     },
     {
-      referencia: 'ARL Sura. (2021). Actos inseguros.',
-      link:
-        'https://www.positivacomunica.com/wp-content/uploads/2018/10/Condiciones-inseguras-mail.html',
-    },
-    {
-      referencia: 'ARL Sura. (2021). Condiciones de trabajo inseguras.',
-      link:
-        'https://www.positivacomunica.com/wp-content/uploads/2018/10/Condiciones-inseguras-mail.html',
+      referencia:
+        'ARL Sura. (s.f.). Generalidades del sistema de riesgos laborales.',
+      link: 'https://www.arlsura.com/1929',
     },
     {
       referencia: 'Carder (2017). Normatividad de residuos peligrosos.',
