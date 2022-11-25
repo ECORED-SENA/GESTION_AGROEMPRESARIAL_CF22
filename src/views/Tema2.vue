@@ -290,65 +290,65 @@
       .col-lg-10.col-md-12.col-12
         .tarjeta.color-rosa2.p-5
           .row.justify-content-center.align-items-center
-            .col-lg-1.col-md-2.col-3
+            .col-lg-1.col-md-2.col-3.mb-2
               figure
                 img(src='@/assets/curso/tema2/icon1.svg', alt='Texto que describa la imagen')
-            .col-lg-1.col-md-1.col-3
+            .col-lg-1.col-md-1.col-3.mb-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero1.svg', alt='Texto que describa la imagen')
-            .col-lg-10.col-md-9.col-6
+            .col-lg-10.col-md-9.col-12
               <b> <FONT COLOR="#A3314F"> La disponibilidad de material genético para realizar la inseminación artificial: </FONT> </b> no en todos los lugares se tiene acceso a las pajillas que contienen el semen de los reproductores seleccionados ni se cuenta con las condiciones para su conservación.  
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-lg-1.col-md-2.col-3
+            .col-lg-1.col-md-2.col-3.mb-2
               figure
                 img(src='@/assets/curso/tema2/icon2.svg', alt='Texto que describa la imagen')
-            .col-lg-1.col-md-1.col-3
+            .col-lg-1.col-md-1.col-3.mb-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero2.svg', alt='Texto que describa la imagen')
-            .col-lg-10.col-md-9.col-6
+            .col-lg-10.col-md-9.col-12
               <b> <FONT COLOR="#A3314F"> El tipo de explotación desarrollada: </FONT> </b> en sistemas de economía campesina o de autoabastecimiento es más común el empleo de métodos de monta natural, especialmente por los menores costos. 
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-lg-1.col-md-2.col-3
+            .col-lg-1.col-md-2.col-3.mb-2
               figure
                 img(src='@/assets/curso/tema2/icon3.svg', alt='Texto que describa la imagen')
-            .col-lg-1.col-md-1.col-3
+            .col-lg-1.col-md-1.col-3.mb-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero3.svg', alt='Texto que describa la imagen')
-            .col-lg-10.col-md-9.col-6
+            .col-lg-10.col-md-9.col-12
               <b> <FONT COLOR="#A3314F"> La disponibilidad de recursos e infraestructura para las labores de monta: </FONT> </b> en algunas unidades productivas no se cuenta con los recursos ni las instalaciones para el desarrollo de procesos de inseminación artificial, por lo que se debe recurrir a otros métodos.  
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-lg-1.col-md-2.col-3
+            .col-lg-1.col-md-2.col-3.mb-2
               figure
                 img(src='@/assets/curso/tema2/icon4.svg', alt='Texto que describa la imagen')
-            .col-lg-1.col-md-1.col-3
+            .col-lg-1.col-md-1.col-3.mb-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero4.svg', alt='Texto que describa la imagen')
-            .col-lg-10.col-md-9.col-6
+            .col-lg-10.col-md-9.col-12
               <b> <FONT COLOR="#A3314F"> Suficiente cantidad de machos reproductores: </FONT> </b> en unidades productivas donde existe un número suficiente de machos reproductores es posible desarrollar métodos de monta natural. 
           .row.justify-content-center
             .col-md-12
               hr.linearoja
 
           .row.justify-content-center.align-items-center
-            .col-lg-1.col-md-2.col-3
+            .col-lg-1.col-md-2.col-3.mb-2
               figure
                 img(src='@/assets/curso/tema2/icon5.svg', alt='Texto que describa la imagen')
-            .col-lg-1.col-md-1.col-3
+            .col-lg-1.col-md-1.col-3.mb-2
               figure.numero
                 img(src='@/assets/curso/tema2/numero5.svg', alt='Texto que describa la imagen')
-            .col-lg-10.col-md-9.col-6
+            .col-lg-10.col-md-9.col-12
               <b> <FONT COLOR="#A3314F"> Condiciones de peso, edad y estado de desarrollo de las hembras: </FONT> </b> en algunos casos, especialmente en cerdos, los machos reproductores son demasiado pesados para servir a las hembras, por lo que se deben utilizar métodos alternativos a la monta natural o a la monta dirigida.   
     separador
 

@@ -326,7 +326,7 @@
                 figure.mb-4
                   img(src='@/assets/curso/tema3/15.svg', alt='Texto que describa la imagen')
               .col-lg-10.col-md-8.col-12
-                h5.mb-4 Arnés de seguridad
+                h5.mb-1 Arnés de seguridad
                 p.mb-0 Equipo de protección para prevenir la caída del personal que labora en alturas. Obligatorio para trabajos como poda de árboles, reparaciones locativas y mantenimiento de infraestructura. 
             .row.justify-content-center
               .col-md-12
@@ -479,13 +479,14 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-12.position-relative
         .crd.crd--avatarHorizontal.py-5
-          .row.align-items-center
+          .row.align-items-center.mb-0
             .col-lg-3.col-md-3
               figure.mb-0
                 img(src='@/assets/curso/tema3/vec7.svg' alt='AvatarTop').img1
             .col-lg-9.col-md-9
-              .row.align-items-center 
+              .row.align-items-center
                 .col-md-6
+                  br
                   ul.lista-ul--color
                     li 
                       i.fas.fa-check

@@ -43,10 +43,11 @@
           .row.align-items-center.mb-0
             .col-lg-5.col-md-8
               .row.justify-content-center
-                .col-md-10
+                .col-md-9
                   figure
                     img(src='@/assets/curso/tema4/vec1.png', alt='')
             .col-lg-7.col-md-12
+              br
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
